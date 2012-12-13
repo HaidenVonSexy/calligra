@@ -140,7 +140,7 @@ msgstr ""
 
 #: core/kexiaboutdata.cpp:60
 msgid "Shreya Pandit"
-msgstr ""
+msgstr "Shreya Pandit"
 
 #: core/kexiaboutdata.cpp:60
 msgid "Web elements for forms and reports"
@@ -1011,10 +1011,9 @@ msgid "Switching to other view failed (%1)."
 msgstr "Diğer pencereye geçiş başarısız (%1)."
 
 #: core/KexiWindow.cpp:852
-#, fuzzy
 #| msgid "Could not remove object."
 msgid "Could not create new object."
-msgstr "Nesne silinemedi"
+msgstr "Yeni nesne oluşturulamadı."
 
 #: core/KexiWindow.cpp:863
 msgid "Saving object's definition failed."
@@ -1067,14 +1066,12 @@ msgid "Align Widgets to Right"
 msgstr "Parçacıkları Sağa Hizala"
 
 #: formeditor/commands.cpp:431
-#, fuzzy
 #| msgid "Align Widgets to Top"
 msgctxt "(qtundo-format)"
 msgid "Align Widgets to Top"
 msgstr "Parçacıkları Üste Hizala"
 
 #: formeditor/commands.cpp:434
-#, fuzzy
 #| msgid "Align Widgets to Bottom"
 msgctxt "(qtundo-format)"
 msgid "Align Widgets to Bottom"
@@ -1214,14 +1211,12 @@ msgid "Break Layout: \"%1\""
 msgstr "Yerleşimi Boz: \"%1\""
 
 #: formeditor/commands.cpp:1388
-#, fuzzy
 #| msgid "Paste"
 msgctxt "(qtundo-format)"
 msgid "Paste"
 msgstr "Yapıştır"
 
 #: formeditor/commands.cpp:1714
-#, fuzzy
 #| msgid "Delete widget"
 msgctxt "(qtundo-format)"
 msgid "Delete widget"
@@ -1235,14 +1230,12 @@ msgid "Duplicate widget"
 msgstr "Gereci çoğalt"
 
 #: formeditor/commands.cpp:1894
-#, fuzzy
 #| msgid "Cut"
 msgctxt "(qtundo-format)"
 msgid "Cut"
 msgstr "Kes"
 
 #: formeditor/commands.cpp:2181
-#, fuzzy
 #| msgid "Add Page"
 msgctxt "(qtundo-format)"
 msgid "Add Page"
@@ -1254,12 +1247,11 @@ msgid "Page %1"
 msgstr "Sayfa %1"
 
 #: formeditor/commands.cpp:2305
-#, fuzzy
 #| msgctxt "Remove tab widget's page"
 #| msgid "Remove Page"
 msgctxt "(qtundo-format)"
 msgid "Remove Page"
-msgstr "Sayfayı Sil"
+msgstr "Sayfayı Kaldır"
 
 #: formeditor/connectiondialog.cpp:55
 msgid "Edit Form Connections"
@@ -1941,7 +1933,6 @@ msgid "slider"
 msgstr "ayırıcı"
 
 #: formeditor/factories/stdwidgetfactory.cpp:351
-#, fuzzy
 #| msgid "An horizontal slider"
 msgid "A horizontal slider"
 msgstr "Bir dikey kaydırma çubuğu"
@@ -2321,7 +2312,6 @@ msgid "Tooltip"
 msgstr "İpucu"
 
 #: formeditor/form.cpp:461
-#, fuzzy
 #| msgctxt "Mouse Cursor Shape"
 #| msgid "What's This?"
 msgctxt "Widget's Whats This"
@@ -2355,13 +2345,11 @@ msgid "Frame Shadow"
 msgstr "Çerçeve Gölgesi"
 
 #: formeditor/form.cpp:472
-#, fuzzy
 #| msgid "Vertical ScrollBar"
 msgid "Vertical Scrollbar"
 msgstr "Dikey Kaydırma Çubuğu"
 
 #: formeditor/form.cpp:473
-#, fuzzy
 #| msgid "Horizontal ScrollBar"
 msgid "Horizontal Scrollbar"
 msgstr "Yatay Kaydırma Çubuğu"
@@ -2717,10 +2705,9 @@ msgid "&Select object to be opened after clicking \"%1\" button:"
 msgstr "\"%1\" düğme&si tıklandığında açılacak nesneyi seçin:"
 
 #: formeditor/kexiactionselectiondialog.cpp:409
-#, fuzzy
 #| msgid "Assigning Action to Command Button"
 msgid "Assigning Action to Button"
-msgstr "Komut Düğmesine bir Eylem Atama"
+msgstr "Düğmeye bir Eylem Atama"
 
 #: formeditor/kexiactionselectiondialog.cpp:413
 msgctxt "Assign action"
@@ -2939,7 +2926,6 @@ msgid "‹ %L"
 msgstr ""
 
 #: kexiutils/KexiAssistantPage.cpp:76
-#, fuzzy
 #| msgid "Next Page"
 msgctxt "Button text: Next page in assistant (wizard)"
 msgid "Next"
@@ -3083,7 +3069,7 @@ msgstr "Geçerli sekmeyi kapat"
 #, kde-format
 msgctxt "Action name with three dots..."
 msgid "%1..."
-msgstr ""
+msgstr "%1..."
 
 #: main/KexiMainWindow.cpp:456
 msgid "Create a new project"
@@ -3174,7 +3160,6 @@ msgid "Imports, exports or sends project."
 msgstr "Tüm veritabanını Kexi projesi olarak içeri aktarır."
 
 #: main/KexiMainWindow.cpp:530
-#, fuzzy
 #| msgid "&Close"
 msgctxt "Close Project"
 msgid "&Close"
@@ -3189,10 +3174,9 @@ msgid "Closes the current project."
 msgstr "Geçerli projeyi kapatır."
 
 #: main/KexiMainWindow.cpp:539
-#, fuzzy
 #| msgid "Exit Main Application"
 msgid "Quits Kexi application."
-msgstr "Ana uygulamadan çık"
+msgstr "Kexi uygulamasından çık"
 
 #: main/KexiMainWindow.cpp:544
 msgid "&Relationships..."
@@ -3305,11 +3289,10 @@ msgid "Shows page setup for printing the active table or query."
 msgstr "Etkin tablo veya sorgu verisinin yazdırma ayarlarını gösterir."
 
 #: main/KexiMainWindow.cpp:639
-#, fuzzy
 #| msgid "Paste &Special"
 msgctxt "Paste Special->As Data &Table..."
 msgid "Paste Special..."
-msgstr "Özel &Yapıştır"
+msgstr "Özel Yapıştır..."
 
 #: main/KexiMainWindow.cpp:641
 msgid "Paste clipboard data as a table"
@@ -3320,11 +3303,10 @@ msgid "Pastes clipboard data to a table."
 msgstr "Panodaki veriyi tablo olarak yapıştırır."
 
 #: main/KexiMainWindow.cpp:650
-#, fuzzy
 #| msgid "Copy &Special"
 msgctxt "Copy Special->Table or Query Data..."
 msgid "Copy Special..."
-msgstr "Özel K&opyala"
+msgstr "Özel Kopyala..."
 
 #: main/KexiMainWindow.cpp:652
 msgid "Copy selected table or query data to clipboard"
@@ -3343,10 +3325,9 @@ msgid "Reverts the most recent undo action."
 msgstr "Son geri alınan değişikliği tekrar uygular."
 
 #: main/KexiMainWindow.cpp:673
-#, fuzzy
 #| msgid "Find"
 msgid "Find text"
-msgstr "Bul"
+msgstr "Metin bul"
 
 #: main/KexiMainWindow.cpp:674
 msgid "Looks up the first occurrence of a piece of text."
@@ -3365,10 +3346,9 @@ msgid "Deletes currently selected object."
 msgstr "Seçili nesneyi siler."
 
 #: main/KexiMainWindow.cpp:697
-#, fuzzy
 #| msgid "Delete Row"
 msgid "Delete Record"
-msgstr "Satır Sil"
+msgstr "Kayıt Sil"
 
 #: main/KexiMainWindow.cpp:699
 #, fuzzy
@@ -3573,16 +3553,14 @@ msgid "Lets you configure shortcut keys."
 msgstr "Kısayol tuşlarını yapılandırır."
 
 #: main/KexiMainWindow.cpp:944
-#, fuzzy
 #| msgid "&Settings"
 msgid "Settings..."
-msgstr "&Ayarlar"
+msgstr "Ayarlar..."
 
 #: main/KexiMainWindow.cpp:945
-#, fuzzy
 #| msgid "&Settings"
 msgid "Kexi settings"
-msgstr "&Ayarlar"
+msgstr "Kexi ayarlar"
 
 #: main/KexiMainWindow.cpp:946
 msgid "Lets you to view and change Kexi settings."
@@ -3821,10 +3799,9 @@ msgid ""
 msgstr ""
 
 #: main/KexiMainWindow.cpp:3595
-#, fuzzy
 #| msgid "Close windows"
 msgid "Close window"
-msgstr "Pencereleri kapat"
+msgstr "Pencereyi kapat"
 
 #: main/KexiMainWindow.cpp:3606
 #, kde-format
@@ -3933,11 +3910,10 @@ msgid "Shows information about K Desktop Environment."
 msgstr "K Masaüstü Araçları hakkında bilgi verir."
 
 #: main/KexiMainWindow_p.h:971
-#, fuzzy
 #| msgid "File"
 msgctxt "File menu"
 msgid "&File"
-msgstr "Dosya"
+msgstr "&Dosya"
 
 #: main/KexiMainWindow_p.h:977 main/startup/KexiNewProjectAssistant.cpp:361
 msgid "Create"
@@ -3979,23 +3955,20 @@ msgid "Choose Directory Where to Install Example Database"
 msgstr "Örnek Veritabanının Alınacağı Dizini Seç"
 
 #: main/KexiSearchLineEdit.cpp:371
-#, fuzzy
 #| msgid "&Search:"
 msgid "Search"
-msgstr "A&ra:"
+msgstr "Ara"
 
 #: main/kexistatusbar.cpp:80
-#, fuzzy
 #| msgid "View"
 msgctxt "View menu"
 msgid "View"
 msgstr "Görünüm"
 
 #: main/kexistatusbar.cpp:81
-#, fuzzy
 #| msgid "Show Page Setup"
 msgid "Show view menu"
-msgstr "Sayfa Ayarlarını Göster"
+msgstr "Görünüm Ayarlarını Göster"
 
 #: main/kexistatusbar.cpp:82
 msgid "Shows menu with view-related options"
@@ -4023,10 +3996,9 @@ msgid "Read only"
 msgstr "Salt okunur"
 
 #: main/startup/KexiNewProjectAssistant.cpp:88
-#, fuzzy
 #| msgid "Open Project"
 msgid "New Project"
-msgstr "Proje Aç"
+msgstr "Yeni Proje"
 
 #: main/startup/KexiNewProjectAssistant.cpp:89
 #, fuzzy
@@ -4080,13 +4052,12 @@ msgstr "Veritabanı Bağlantısı"
 
 #: main/startup/KexiNewProjectAssistant.cpp:162
 msgid "Templates"
-msgstr ""
+msgstr "Şablonlar"
 
 #: main/startup/KexiNewProjectAssistant.cpp:168
-#, fuzzy
 #| msgid "Select Storage Method"
 msgid "Storage Method"
-msgstr "Depolama Yöntemini Seç"
+msgstr "Depolama Yöntemi"
 
 #: main/startup/KexiNewProjectAssistant.cpp:169
 #, fuzzy
@@ -4262,10 +4233,9 @@ msgid "Open Project on Database Server"
 msgstr "Veritabanı Sunucusunda Depolanan Yeni Proje"
 
 #: main/startup/KexiOpenProjectAssistant.cpp:121
-#, fuzzy
 #| msgid "&Open"
 msgid "Open"
-msgstr "&Aç"
+msgstr "Aç"
 
 #: main/startup/KexiOpenProjectAssistant.cpp:158
 #, fuzzy, kde-format
@@ -4275,7 +4245,6 @@ msgstr "<b>%1</b> veritabanı sunucusundan açılacak projeyi seçin:"
 
 #. i18n: ectx: property (text), widget (KexiCommandLinkButton, btn_file)
 #: main/startup/KexiProjectStorageTypeSelectionPage.ui:22
-#, fuzzy
 #| msgid "File"
 msgctxt "New Project Stored in File"
 msgid "File"
@@ -4288,11 +4257,10 @@ msgstr "Dosya Olarak Depolanan Yeni Proje"
 
 #. i18n: ectx: property (text), widget (KexiCommandLinkButton, btn_server)
 #: main/startup/KexiProjectStorageTypeSelectionPage.ui:35
-#, fuzzy
 #| msgid "Server result name:"
 msgctxt "New Project Stored on Database Server"
 msgid "Server"
-msgstr "Sunucu sonuç ismi:"
+msgstr "Sunucu"
 
 #. i18n: ectx: property (description), widget (KexiCommandLinkButton, btn_server)
 #: main/startup/KexiProjectStorageTypeSelectionPage.ui:38
@@ -4307,31 +4275,31 @@ msgstr ""
 #, kde-format
 msgid "Opened 1 minute ago"
 msgid_plural "Opened %1 minutes ago"
-msgstr[0] ""
+msgstr[0] "%1 dakika önce açıldı"
 
 #: main/startup/KexiRecentProjectsModel.cpp:72
 #, kde-format
 msgid "Opened 1 hour ago"
 msgid_plural "Opened %1 hours ago"
-msgstr[0] ""
+msgstr[0] "%1 saat önce açıldı "
 
 #: main/startup/KexiRecentProjectsModel.cpp:76
 #, kde-format
 msgid "Opened yesterday"
 msgid_plural "Opened %1 days ago"
-msgstr[0] ""
+msgstr[0] "%1 gün önce açıldı"
 
 #: main/startup/KexiRecentProjectsModel.cpp:78
 #, kde-format
 msgid "Opened over a month ago"
 msgid_plural "Opened %1 months ago"
-msgstr[0] ""
+msgstr[0] "%1 ay önce açıldı"
 
 #: main/startup/KexiRecentProjectsModel.cpp:79
 #, kde-format
 msgid "Opened one year ago"
 msgid_plural "Opened %1 years ago"
-msgstr[0] ""
+msgstr[0] "%1 yıl önce açıldı"
 
 #: main/startup/KexiRecentProjectsModel.cpp:112
 #, fuzzy
@@ -4353,22 +4321,20 @@ msgid "File database %1"
 msgstr "Yeni veritabanı"
 
 #: main/startup/KexiRecentProjectsModel.cpp:128
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "New database"
 msgctxt "<type> database"
 msgid "%1 database"
-msgstr "Yeni veritabanı"
+msgstr "%1 veritabanı"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: main/startup/KexiServerDBNamePage.ui:22
-#, fuzzy
 #| msgid "Page title:"
 msgid "Project title:"
-msgstr "Sayfa başlığı:"
+msgstr "Proje başlığı:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
 #: main/startup/KexiServerDBNamePage.ui:51
-#, fuzzy
 #| msgid "Project's database name: "
 msgid "Project's database name:"
 msgstr "Proje veritabanı adı:"
@@ -4775,10 +4741,9 @@ msgid "Primary Key"
 msgstr "Birincil Anahtar"
 
 #: migration/AlterSchemaWidget.cpp:54
-#, fuzzy
 #| msgid "Table field"
 msgid "Table Name"
-msgstr "Tablo alanı"
+msgstr "Tablo Adı"
 
 #: migration/importoptionsdlg.cpp:46
 msgid "Advanced Import Options"
@@ -5215,10 +5180,9 @@ msgid "Creates new autoform."
 msgstr "Yeni bir form oluşturur."
 
 #: plugins/autoforms/KexiAutoFormView.cpp:48
-#, fuzzy
 #| msgid "Add Record"
 msgid "Record"
-msgstr "Kayıt Ekle"
+msgstr "Kayıt"
 
 #: plugins/forms/kexidatasourcepage.cpp:49
 msgid "No data source could be assigned for this widget."
@@ -5356,13 +5320,12 @@ msgid ""
 msgstr ""
 
 #: plugins/forms/kexidbfactory.cpp:307
-#, fuzzy
 #| msgctxt ""
 #| "Widget name. This string will be used to name widgets of this class. It "
 #| "must _not_ contain white spaces and non latin1 characters."
 #| msgid "button"
 msgid "Button"
-msgstr "button"
+msgstr "Düğme"
 
 #: plugins/forms/kexidbfactory.cpp:311
 #, fuzzy
@@ -5371,10 +5334,9 @@ msgid "A button for executing actions"
 msgstr "Eylemleri gerçekleştirmek için bir komut düğmesi"
 
 #: plugins/forms/kexidbfactory.cpp:320
-#, fuzzy
 #| msgid "Option Button"
 msgid "Link Button"
-msgstr "Seçenek Düğmesi"
+msgstr "Bağlantı Düğmesi"
 
 #: plugins/forms/kexidbfactory.cpp:323
 #, fuzzy
@@ -5432,14 +5394,12 @@ msgid "Inverted"
 msgstr ""
 
 #: plugins/forms/kexidbfactory.cpp:362
-#, fuzzy
 #| msgctxt "Size Policy"
 #| msgid "Minimum"
 msgid "Minimum"
 msgstr "En küçük"
 
 #: plugins/forms/kexidbfactory.cpp:363
-#, fuzzy
 #| msgctxt "Size Policy"
 #| msgid "Maximum"
 msgid "Maximum"
@@ -5957,10 +5917,9 @@ msgid "To CSV file:"
 msgstr "CSV dosyasına:"
 
 #: plugins/importexport/csv/kexicsvexportwizard.cpp:154
-#, fuzzy
 #| msgid "To clipboard:"
 msgid "To clipboard."
-msgstr "Panoya:"
+msgstr "Panoya."
 
 #: plugins/importexport/csv/kexicsvexportwizard.cpp:166
 #: plugins/importexport/csv/kexicsvexportwizard.cpp:359
@@ -5986,10 +5945,9 @@ msgid "Defaults"
 msgstr "Öntanımlılar"
 
 #: plugins/importexport/csv/kexicsvexportwizard.cpp:231
-#, fuzzy
 #| msgid "Always use above options for exporting"
 msgid "Always use above options for copying"
-msgstr "Dışarı veri aktarımı sırasında her zaman bu seçenekleri kullan"
+msgstr "Kopyalanırken her zaman bu seçenekleri kullan"
 
 #: plugins/importexport/csv/kexicsvexportwizard.cpp:232
 msgid "Always use above options for exporting"
@@ -6040,10 +5998,9 @@ msgid "Preview of data from file:"
 msgstr "Dosyadaki verinin ön izlemesi:"
 
 #: plugins/importexport/csv/kexicsvimportdialog.cpp:331
-#, fuzzy
 #| msgid "Preview of data from clipboard:"
 msgid "Preview of data from clipboard"
-msgstr "Panıdaki verinin ön izlemesi:"
+msgstr "Panodan veri ön izlemesi"
 
 #: plugins/importexport/csv/kexicsvimportdialog.cpp:366
 msgid "Primary key"
@@ -6523,20 +6480,18 @@ msgid "Page"
 msgstr "Sayfa"
 
 #: plugins/reports/kexireportview.cpp:84
-#, fuzzy
 #| msgid "Print Report"
 msgid "Print report"
-msgstr "Rapor Yazdır"
+msgstr "Rapor yazdır"
 
 #: plugins/reports/kexireportview.cpp:85
 msgid "Prints the current report."
 msgstr "Geçerli raporu yazdırır."
 
 #: plugins/reports/kexireportview.cpp:90
-#, fuzzy
 #| msgid "Export"
 msgid "Export:"
-msgstr "Dışarı Aktar"
+msgstr "Dışarı Aktar:"
 
 #: plugins/reports/kexireportview.cpp:95
 msgid "Export as Text Document"
@@ -6610,10 +6565,9 @@ msgstr "Raporu KSpread kullanark aç."
 #: plugins/reports/kexireportview.cpp:209
 #: plugins/reports/kexireportview.cpp:233
 #: plugins/reports/kexireportview.cpp:271
-#, fuzzy
 #| msgid "Opening failed"
 msgid "Export Failed"
-msgstr "Açılamadı"
+msgstr "Aktarma Başarısız"
 
 #: plugins/reports/kexireportview.cpp:225
 msgid "Export Report as Text Document"
@@ -6684,16 +6638,14 @@ msgstr ""
 "Tür"
 
 #: plugins/reports/kexisourceselector.cpp:71
-#, fuzzy
 #| msgid "Internal"
 msgid "Internal Source:"
-msgstr "İç"
+msgstr "İç Kaynak:"
 
 #: plugins/reports/kexisourceselector.cpp:76
-#, fuzzy
 #| msgid "External"
 msgid "External Source:"
-msgstr "Dış"
+msgstr "Dış Kaynak:"
 
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:125
 #: widget/KexiConnectionSelectorWidget.cpp:90
@@ -6708,35 +6660,30 @@ msgid "File actions"
 msgstr "Alan Başlığı"
 
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:129
-#, fuzzy
 #| msgid "&New..."
 msgid "New"
-msgstr "Ye&ni..."
+msgstr "Yeni"
 
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:133
-#, fuzzy
 #| msgid "&Open"
 msgid "Open..."
-msgstr "&Aç"
+msgstr "Aç..."
 
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:137
-#, fuzzy
 #| msgid "Save &As..."
 msgid "Save As..."
-msgstr "F&arklı Kaydet..."
+msgstr "Farklı Kaydet..."
 
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:143
-#, fuzzy
 #| msgid "&Edit"
 msgid "Edit"
-msgstr "Düz&enle"
+msgstr "Düzenle"
 
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:145
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:146
-#, fuzzy
 #| msgid "Edit Collection..."
 msgid "Edit actions"
-msgstr "Koleksiyonu Düzenle..."
+msgstr "Eylemleri düzenle"
 
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:152
 #: plugins/scripting/kexiscripting/kexiscriptpart.cpp:235
@@ -6756,10 +6703,9 @@ msgid "Execute the scripting code"
 msgstr "Betiği Çalıştır"
 
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:275
-#, fuzzy
 #| msgid "Size Type"
 msgid "Script Type"
-msgstr "Boyut Tipi"
+msgstr "Betik Türü"
 
 #: plugins/scripting/kexiscripting/kexiscriptdesignview.cpp:276
 msgid "The type of script"
@@ -6802,20 +6748,18 @@ msgid "script"
 msgstr "Altsimge"
 
 #: plugins/scripting/kexiscripting/kexiscriptpart.cpp:83
-#, fuzzy
 #| msgctxt "tooltip"
 #| msgid "Create new report"
 msgctxt "tooltip"
 msgid "Create new script"
-msgstr "Yeni rapor oluştur"
+msgstr "Yeni betik oluştur"
 
 #: plugins/scripting/kexiscripting/kexiscriptpart.cpp:84
-#, fuzzy
 #| msgctxt "what's this"
 #| msgid "Creates new report."
 msgctxt "what's this"
 msgid "Creates new script."
-msgstr "Yeni rapor oluşturur."
+msgstr "Yeni betik oluşturur."
 
 #: plugins/scripting/kexiscripting/kexiscriptpart.cpp:125
 #, kde-format
@@ -6826,16 +6770,14 @@ msgid ""
 msgstr ""
 
 #: plugins/scripting/kexiscripting/kexiscriptpart.cpp:126
-#, fuzzy
 #| msgid "Execute Script"
 msgid "Execute Script?"
-msgstr "Betiği Çalıştır"
+msgstr "Betiği Çalıştır?"
 
 #: plugins/scripting/kexiscripting/kexiscriptpart.cpp:257
-#, fuzzy
 #| msgid "Subscript"
 msgid "Scripts"
-msgstr "Altsimge"
+msgstr "Betikler"
 
 #: plugins/scripting/kexiscripting/kexiscriptpart.cpp:285
 #, fuzzy, kde-format
@@ -7261,11 +7203,11 @@ msgid "Lookup column"
 msgstr "Arama sütunu"
 
 #: widget/dataviewcommon/kexidataawareobjectiface.cpp:964
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Error: %1"
 msgctxt "Question"
 msgid "Error: %1?"
-msgstr "Hata: %1"
+msgstr "Hata: %1?"
 
 #: widget/dataviewcommon/kexidataawareobjectiface.cpp:976
 #: widget/dataviewcommon/kexitableviewdata.cpp:598
