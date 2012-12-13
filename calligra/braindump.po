@@ -130,10 +130,9 @@ msgid "A web shape"
 msgstr "Bir Web şekli"
 
 #: plugins/webshape/WebToolFactory.cpp:30
-#, fuzzy
 #| msgid "Web Shape"
 msgid "Web Shape Tool"
-msgstr "Web şekli"
+msgstr "Web şekil Aracı"
 
 #: src/AboutData.h:27
 msgid "Braindump: directly from your brain to the computer."
@@ -216,7 +215,7 @@ msgstr "Serbest"
 
 #: src/MainWindow.cpp:107
 msgid "Dockers"
-msgstr ""
+msgstr "Docker"
 
 #: src/SectionGroup.cpp:82
 #, kde-format
