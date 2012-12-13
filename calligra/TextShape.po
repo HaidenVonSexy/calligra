@@ -127,17 +127,15 @@ msgstr "Otomatik"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: dialogs/AcceptRejectChangeDialog.ui:122
-#, fuzzy
 #| msgid "Paste"
 msgid "Date"
-msgstr "Yapıştır"
+msgstr "Tarih"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: dialogs/AcceptRejectChangeDialog.ui:135
-#, fuzzy
 #| msgid "Type:"
 msgid "Type"
-msgstr "Tip:"
+msgstr "Tip"
 
 #: dialogs/BibliographyConfigureDialog.cpp:109
 msgid "Ascending"
@@ -441,7 +439,6 @@ msgstr "Genel"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: dialogs/CharacterGeneral.ui:33
-#, fuzzy
 #| msgid "Name:"
 msgctxt "Name of the style"
 msgid "Name:"
@@ -521,16 +518,14 @@ msgstr "Büyük Harf Kullanımı"
 
 #. i18n: ectx: property (text), widget (QLabel)
 #: dialogs/CharacterHighlighting.ui:173
-#, fuzzy
 #| msgid "Position"
 msgid "Position:"
-msgstr "Konum"
+msgstr "Konum:"
 
 #: dialogs/CitationInsertionDialog.cpp:38
-#, fuzzy
 #| msgid "Select Font"
 msgid "Select"
-msgstr "Yazı Tipi Seç"
+msgstr "Seç"
 
 #: dialogs/CitationInsertionDialog.cpp:53 dialogs/StyleManager.cpp:411
 #: dialogs/StyleManager.cpp:428
@@ -570,7 +565,7 @@ msgstr "İsim:"
 #. i18n: ectx: property (text), widget (QLabel, sourcetypeLabel)
 #: dialogs/CitationInsertionDialog.ui:52
 msgid "Source:"
-msgstr ""
+msgstr "Kaynak:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #. i18n: ectx: property (text), item, widget (QListWidget, bibTypes)
@@ -605,7 +600,7 @@ msgstr ""
 #: dialogs/CitationInsertionDialog.ui:80
 #: dialogs/InsertBibliographyDialog.ui:81
 msgid "Email"
-msgstr ""
+msgstr "E-posta"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #: dialogs/CitationInsertionDialog.ui:85
@@ -737,7 +732,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, yearLabel)
 #: dialogs/CitationInsertionDialog.ui:193
 msgid "Year:"
-msgstr ""
+msgstr "Yıl:"
 
 #. i18n: ectx: property (text), widget (QLabel, publisherLabel)
 #: dialogs/CitationInsertionDialog.ui:203
@@ -747,7 +742,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, addressLabel)
 #: dialogs/CitationInsertionDialog.ui:213
 msgid "Address:"
-msgstr ""
+msgstr "Adres:"
 
 #. i18n: ectx: property (text), widget (QLabel, isbnLabel)
 #: dialogs/CitationInsertionDialog.ui:223
@@ -829,7 +824,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, monthLabel)
 #: dialogs/CitationInsertionDialog.ui:363
 msgid "Month:"
-msgstr ""
+msgstr "Ay:"
 
 #. i18n: ectx: property (text), widget (QLabel, seriesLabel)
 #: dialogs/CitationInsertionDialog.ui:373
@@ -1119,7 +1114,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, beginAtCombo)
 #: dialogs/NotesConfigurationDialog.ui:154
 msgid "Document"
-msgstr ""
+msgstr "Belge"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, numStyleCombo)
 #: dialogs/NotesConfigurationDialog.ui:233
@@ -1139,22 +1134,22 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, numStyleCombo)
 #: dialogs/NotesConfigurationDialog.ui:248
 msgid "a, b, c, ..., aa, bb, ..., aaa, bbb, ..."
-msgstr ""
+msgstr "a, b, c, ..., aa, bb, ..., aaa, bbb, ..."
 
 #. i18n: ectx: property (text), item, widget (QComboBox, numStyleCombo)
 #: dialogs/NotesConfigurationDialog.ui:253
 msgid "A, B, C, ..., AA, BB, ..., AAA, BBB, ..."
-msgstr ""
+msgstr "A, B, C, ..., AA, BB, ..., AAA, BBB, ..."
 
 #. i18n: ectx: property (text), item, widget (QComboBox, numStyleCombo)
 #: dialogs/NotesConfigurationDialog.ui:258
 msgid "i, ii, iii, ..."
-msgstr ""
+msgstr "i, ii, iii, ..."
 
 #. i18n: ectx: property (text), item, widget (QComboBox, numStyleCombo)
 #: dialogs/NotesConfigurationDialog.ui:263
 msgid "I,II,III, ..."
-msgstr ""
+msgstr "I,II,III, ..."
 
 #. i18n: ectx: property (title), widget (QGroupBox, continuationBox)
 #: dialogs/NotesConfigurationDialog.ui:290
@@ -1248,7 +1243,7 @@ msgstr "Madde İmleri/Numaralar"
 #: dialogs/ParagraphBulletsNumbers.ui:175
 #: dialogs/ParagraphBulletsNumbers.ui:192
 msgid " cm"
-msgstr ""
+msgstr " cm"
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #: dialogs/ParagraphBulletsNumbers.ui:165
@@ -1308,7 +1303,7 @@ msgstr "Sağ"
 #. i18n: ectx: property (text), widget (QPushButton, insertImage)
 #: dialogs/ParagraphBulletsNumbers.ui:284
 msgid "Browse..."
-msgstr ""
+msgstr "Göz at..."
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: dialogs/ParagraphDecorations.ui:31 TextTool.cpp:377
@@ -1522,10 +1517,9 @@ msgid "Paragraph Format"
 msgstr "Paragraf Biçimi"
 
 #: dialogs/ParagraphSettingsDialog.cpp:83
-#, fuzzy
 #| msgid "Paragraph Settings\n"
 msgid "Paragraph Settings"
-msgstr "Paragraf Ayarları\n"
+msgstr "Paragraf Ayarları"
 
 #: dialogs/QuickTableButton.cpp:160
 #, fuzzy
@@ -1620,7 +1614,6 @@ msgid "Set Border Color..."
 msgstr "Metin Rengi..."
 
 #: dialogs/SimpleTableWidget.cpp:184
-#, fuzzy
 #| msgid "None"
 msgctxt "No border - has to fit in 48pixels"
 msgid "None"
@@ -1647,17 +1640,15 @@ msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QListView, paragraphStylesListView)
 #: dialogs/StyleManager.ui:39 TextTool.cpp:2123
-#, fuzzy
 #| msgid "Paragraph..."
 msgid "Paragraph"
-msgstr "Paragraf..."
+msgstr "Paragraf"
 
 #. i18n: ectx: attribute (title), widget (QListView, characterStylesListView)
 #: dialogs/StyleManager.ui:53 TextTool.cpp:2121
-#, fuzzy
 #| msgid "Character style"
 msgid "Character"
-msgstr "Karakter biçimi"
+msgstr "Karakter"
 
 #. i18n: ectx: property (text), widget (QPushButton, bNew)
 #: dialogs/StyleManager.ui:77
@@ -1798,10 +1789,9 @@ msgid "Use styles"
 msgstr "yeni biçim"
 
 #: dialogs/TableOfContentsConfigure.cpp:80 ReferencesTool.cpp:148
-#, fuzzy
 #| msgid "Paragraph Settings\n"
 msgid "Configure"
-msgstr "Paragraf Ayarları\n"
+msgstr "Yapılandır"
 
 #: dialogs/TableOfContentsConfigure.cpp:81
 #, fuzzy
@@ -1850,7 +1840,7 @@ msgstr ""
 #: dialogs/TableOfContentsEntryModel.cpp:150
 #: dialogs/TableOfContentsStyleModel.cpp:247
 msgid "Level"
-msgstr ""
+msgstr "Seviye"
 
 #: dialogs/TableOfContentsEntryModel.cpp:152
 #, fuzzy
@@ -1921,10 +1911,9 @@ msgid "Insert a custom Table of Contents into the document."
 msgstr "Belgeye bir tablo ekle."
 
 #: ReferencesTool.cpp:103
-#, fuzzy
 #| msgid "Paragraph Settings\n"
 msgid "Configure..."
-msgstr "Paragraf Ayarları\n"
+msgstr "Yapılandır..."
 
 #: ReferencesTool.cpp:105
 #, fuzzy
@@ -2188,10 +2177,9 @@ msgid "Text Color..."
 msgstr "Metin Rengi..."
 
 #: TextTool.cpp:370
-#, fuzzy
 #| msgid "Text Color..."
 msgid "Text Color"
-msgstr "Metin Rengi..."
+msgstr "Metin Rengi"
 
 #: TextTool.cpp:376
 msgid "Background Color..."
@@ -2380,7 +2368,6 @@ msgid "Change Border Formatting"
 msgstr ""
 
 #: TextTool.cpp:1112
-#, fuzzy
 #| msgid "Cut"
 msgctxt "(qtundo-format)"
 msgid "Cut"
@@ -2399,7 +2386,6 @@ msgid "Adjust Row Height"
 msgstr ""
 
 #: TextTool.cpp:2125
-#, fuzzy
 #| msgid "Table..."
 msgid "Table"
 msgstr "Tablo..."

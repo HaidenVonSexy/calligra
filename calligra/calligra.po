@@ -280,7 +280,7 @@ msgstr ""
 
 #: db/connection.cpp:2796
 msgid "Invalid XML data: "
-msgstr ""
+msgstr "XML verisi geçersiz: "
 
 #: db/connection.cpp:2826
 #, fuzzy, kde-format
@@ -378,7 +378,7 @@ msgstr ""
 
 #: db/connectiondata.cpp:97
 msgid "file"
-msgstr ""
+msgstr "dosya"
 
 #: db/cursor.cpp:142
 msgid "No query statement or schema defined."
@@ -683,16 +683,14 @@ msgid "Date"
 msgstr "Tarih"
 
 #: db/field.cpp:736
-#, fuzzy
 #| msgid "Date & Time"
 msgid "Date and Time"
 msgstr "Tarih ve Saat"
 
 #: db/field.cpp:737
-#, fuzzy
 #| msgid "Timezone"
 msgid "Time"
-msgstr "Zaman Dilimi"
+msgstr "Zaman"
 
 #: db/field.cpp:738
 #, fuzzy
@@ -715,10 +713,9 @@ msgid "Text"
 msgstr "Metin"
 
 #: db/field.cpp:741
-#, fuzzy
 #| msgid "Text"
 msgid "Long Text"
-msgstr "Metin"
+msgstr "Uzun Metin"
 
 #: db/field.cpp:742 db/field.cpp:766 main/rdf/KoSopranoTableModel.cpp:134
 msgid "Object"
@@ -742,10 +739,9 @@ msgid "Yes/No"
 msgstr ""
 
 #: db/field.cpp:765
-#, fuzzy
 #| msgid "Date & Time"
 msgid "Date/Time"
-msgstr "Tarih ve Saat"
+msgstr "Tarih/Saat"
 
 #: db/object.cpp:60
 msgid "Unspecified error encountered"
@@ -861,10 +857,9 @@ msgid "Server result:"
 msgstr ""
 
 #: db/utils.cpp:405 db/utils.cpp:468 db/utils.cpp:473
-#, fuzzy
 #| msgid "Change Connection"
 msgid "Test Connection"
-msgstr "Bağlantıyı Değiştir"
+msgstr "Bağlantı Testi"
 
 #: db/utils.cpp:406
 #, kde-format
@@ -886,10 +881,9 @@ msgid ""
 msgstr ""
 
 #: db/utils.cpp:1500
-#, fuzzy
 #| msgid "&Phone Number:"
 msgid "Number"
-msgstr "&Telefon Numarası:"
+msgstr "Numara"
 
 #: db/utils.cpp:1503 koreport/items/image/KoReportImagePlugin.cpp:35
 #: textlayout/ListItemsHelper.cpp:256
@@ -1247,7 +1241,6 @@ msgid "%1 Options"
 msgstr "%1 Seçenekleri"
 
 #: flake/KoShapePaste.cpp:168
-#, fuzzy
 #| msgid "Paste Shapes"
 msgctxt "(qtundo-format)"
 msgid "Paste Shapes"
@@ -2339,10 +2332,9 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, bntCancel)
 #: koreport/wrtembed/detailgroupsectiondialog.ui:148
-#, fuzzy
 #| msgid "Change"
 msgid "&Cancel"
-msgstr "Değiştir"
+msgstr "&İptal"
 
 #: koreport/wrtembed/KoReportDesigner.cpp:498
 msgid "Page Header (Any)"
@@ -2431,10 +2423,9 @@ msgid "Page Orientation"
 msgstr "Yönelim"
 
 #: koreport/wrtembed/KoReportDesigner.cpp:636
-#, fuzzy
 #| msgid "Page Size"
 msgid "Page Unit"
-msgstr "Sayfa Boyutu"
+msgstr "Sayfa Birimi"
 
 #: koreport/wrtembed/KoReportDesigner.cpp:638 main/KoGridData.cpp:223
 msgid "Show Grid"
@@ -2595,10 +2586,9 @@ msgstr "&Ekle"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnEdit)
 #: koreport/wrtembed/sectioneditor.ui:193
-#, fuzzy
 #| msgid "Add..."
 msgid "&Edit"
-msgstr "Ekle..."
+msgstr "&Düzenle"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnRemove)
 #: koreport/wrtembed/sectioneditor.ui:200
@@ -2623,10 +2613,9 @@ msgstr "Noktaları taşı"
 
 #. i18n: ectx: property (text), widget (QPushButton, buttonOk)
 #: koreport/wrtembed/sectioneditor.ui:266
-#, fuzzy
 #| msgid "Close"
 msgid "&Close"
-msgstr "Kapat"
+msgstr "&Kapat"
 
 #: kotext/commands/ChangeListCommand.cpp:41
 #: kotext/commands/ChangeListCommand.cpp:88
@@ -3292,7 +3281,7 @@ msgstr ""
 
 #: main/KoApplication.cpp:119
 msgid "Calligra"
-msgstr ""
+msgstr "Calligra"
 
 #: main/KoApplication.cpp:389
 #, kde-format
@@ -3661,10 +3650,9 @@ msgid "Rdf"
 msgstr "Rdf"
 
 #: main/KoDocumentInfoDlg.cpp:196
-#, fuzzy
 #| msgid "Use ';' (Example: Office;KDE;KOffice)"
 msgid "Use ';' (Example: Office;KDE;Calligra)"
-msgstr "Kullan ';' (Örnek: Office;KDE;KOffice)"
+msgstr "Kullan ';' (Örnek: Office;KDE;Calligra)"
 
 #: main/KoDocumentInfoDlg.cpp:225 main/KoDocumentInfoDlg.cpp:319
 msgid "This document will be decrypted"
@@ -3895,10 +3883,9 @@ msgid_plural "%1 matches found"
 msgstr[0] "Bunun için bir şablon bulunamadı: %1"
 
 #: main/KoFindToolbar.cpp:260
-#, fuzzy
 #| msgid "No template found for: %1"
 msgid "No matches found"
-msgstr "Bunun için bir şablon bulunamadı: %1"
+msgstr "Eşleşme bulunamadı"
 
 #: main/KoFindToolbar.cpp:266
 msgid "Search hit bottom, continuing from top."
@@ -3939,7 +3926,7 @@ msgstr "&Aktar..."
 
 #: main/KoMainWindow.cpp:335
 msgid "&Themes"
-msgstr ""
+msgstr "&Temalar"
 
 #: main/KoMainWindow.cpp:341
 msgid "Full Screen Mode"
@@ -4166,16 +4153,14 @@ msgid "Picture"
 msgstr "Resim"
 
 #: main/KoTemplateCreateDia.cpp:162
-#, fuzzy
 #| msgid "Preview:"
 msgid "&Preview"
-msgstr "Önizleme:"
+msgstr "&Önizleme:"
 
 #: main/KoTemplateCreateDia.cpp:167
-#, fuzzy
 #| msgid "Custom"
 msgid "Custom:"
-msgstr "Özel"
+msgstr "Özel:"
 
 #: main/KoTemplateCreateDia.cpp:171
 msgid "&Select..."
@@ -4297,10 +4282,9 @@ msgid "Select the object you want to reference"
 msgstr ""
 
 #: main/rdf/KoDocumentRdf.cpp:895
-#, fuzzy
 #| msgid "Text Reference"
 msgid "Reference"
-msgstr "Metin Referans"
+msgstr "Referans"
 
 #: main/rdf/KoDocumentRdfEditWidget.cpp:281
 #, kde-format
@@ -4752,10 +4736,9 @@ msgid "Default"
 msgstr "Öntanımlı"
 
 #: main/thememanager.cpp:240
-#, fuzzy
 #| msgid "Configure..."
 msgid "Configuration..."
-msgstr "Yapılandır..."
+msgstr "Yapılandırma..."
 
 #: main/thememanager.cpp:254
 msgid ""
@@ -4765,10 +4748,9 @@ msgstr ""
 
 #. i18n: ectx: Menu (Tools)
 #: main/thememanager.rc:4
-#, fuzzy
 #| msgid "Tools"
 msgid "&Tools"
-msgstr "Araçlar"
+msgstr "&Araçlar"
 
 #: odf/KoEncryptedStore.cpp:165
 msgid ""
@@ -5665,10 +5647,9 @@ msgid "32 Bits Float"
 msgstr "32 Bit Float"
 
 #: pigment/KoColorModelStandardIds.cpp:38
-#, fuzzy
 #| msgid "16 Bits Float"
 msgid "64 Bits Float"
-msgstr "16 Bit Float"
+msgstr "64 Bit Float"
 
 #: pigment/KoCompositeOp.cpp:33 pigment/KoCompositeOpRegistry.cpp:31
 msgid "Arithmetic"
@@ -5705,10 +5686,9 @@ msgid "Additive Subtractive"
 msgstr "Çıkart"
 
 #: pigment/KoCompositeOpRegistry.cpp:74
-#, fuzzy
 #| msgid "Alpha darken"
 msgid "Alpha Darken"
-msgstr "Alpha karart"
+msgstr "Alpha Karart"
 
 #: pigment/KoCompositeOpRegistry.cpp:82
 msgid "Bumpmap"

@@ -20,7 +20,7 @@ msgstr ""
 #: active/calligraactive.desktop:4
 msgctxt "Name"
 msgid "Calligra Active"
-msgstr ""
+msgstr "Calligra Active"
 
 #: braindump/data/braindump.desktop:5
 msgctxt "GenericName"
@@ -67,7 +67,7 @@ msgstr "Metin Şekli"
 #: doc/calligra.desktop:3
 msgctxt "Name"
 msgid "Calligra"
-msgstr ""
+msgstr "Calligra"
 
 #: filters/flow/imageexport/flow_image_export.desktop:3
 #, fuzzy
@@ -430,7 +430,7 @@ msgstr "KSpread CSV Alma Filtresi"
 #: filters/words/docx/words_docx_thumbnail.desktop:3
 msgctxt "Name"
 msgid "Microsoft Word 2007 Documents"
-msgstr ""
+msgstr "Microsoft Word 2007 Belgeleri"
 
 #: filters/words/epub/words_epub2_export.desktop:3
 #, fuzzy
@@ -806,17 +806,16 @@ msgid "Basic Flowchart"
 msgstr "Temel Akış Şeması"
 
 #: flow/stencils/Basic_Flowchart/database.desktop:2
-#, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Database Creator"
 msgctxt "Name"
 msgid "Database"
-msgstr "Veritabanı Üreticisi"
+msgstr "Veritabanı"
 
 #: flow/stencils/Basic_Flowchart/data.desktop:2
 msgctxt "Name"
 msgid "Data"
-msgstr ""
+msgstr "Veri"
 
 #: flow/stencils/Basic_Flowchart/decision.desktop:2
 #: flow/stencils/SDL/decision.desktop:2
@@ -840,12 +839,11 @@ msgid "Display"
 msgstr ""
 
 #: flow/stencils/Basic_Flowchart/document.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Empty Document"
 msgctxt "Name"
 msgid "Document"
-msgstr "Boş Belge"
+msgstr "Belge"
 
 #: flow/stencils/Basic_Flowchart/internal_storage.desktop:2
 #, fuzzy
@@ -1563,12 +1561,11 @@ msgid "fan"
 msgstr ""
 
 #: flow/stencils/ChemEng/filter.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Filter Op"
 msgctxt "Name"
 msgid "filter"
-msgstr "Süzgeç Tersi"
+msgstr "filtre"
 
 #: flow/stencils/ChemEng/fixedroof.desktop:2
 msgctxt "Name"
@@ -2303,17 +2300,17 @@ msgstr ""
 #: flow/stencils/Cisco/10700.desktop:2
 msgctxt "Name"
 msgid "10700"
-msgstr ""
+msgstr "10700"
 
 #: flow/stencils/Cisco/15200.desktop:2
 msgctxt "Name"
 msgid "15200"
-msgstr ""
+msgstr "15200"
 
 #: flow/stencils/Cisco/15800.desktop:2
 msgctxt "Name"
 msgid "15800"
-msgstr ""
+msgstr "15800"
 
 #: flow/stencils/Cisco/3174.desktop:2
 msgctxt "Name"
@@ -2343,17 +2340,17 @@ msgstr ""
 #: flow/stencils/Cisco/6701.desktop:2
 msgctxt "Name"
 msgid "6701"
-msgstr ""
+msgstr "6701"
 
 #: flow/stencils/Cisco/6705.desktop:2
 msgctxt "Name"
 msgid "6705"
-msgstr ""
+msgstr "6705"
 
 #: flow/stencils/Cisco/6732.desktop:2
 msgctxt "Name"
 msgid "6732"
-msgstr ""
+msgstr "6732"
 
 #: flow/stencils/Cisco/7500ars.desktop:2
 msgctxt "Name"
@@ -2420,7 +2417,7 @@ msgstr ""
 #: flow/stencils/Cisco/atm3800.desktop:2
 msgctxt "Name"
 msgid "ATM 3800"
-msgstr ""
+msgstr "ATM 3800"
 
 #: flow/stencils/Cisco/atm_fast_gigabit_etherswitch.desktop:2
 msgctxt "Name"
@@ -2911,7 +2908,7 @@ msgstr "Izgara"
 #: flow/stencils/Cisco/h323.desktop:2
 msgctxt "Name"
 msgid "H.323"
-msgstr ""
+msgstr "H.323"
 
 #: flow/stencils/Cisco/handheld.desktop:2
 msgctxt "Name"
@@ -3263,7 +3260,7 @@ msgstr ""
 #: flow/stencils/Cisco/microphone.desktop:2
 msgctxt "Name"
 msgid "Microphone"
-msgstr ""
+msgstr "Mikrofon"
 
 #: flow/stencils/Cisco/microwebserver.desktop:2
 msgctxt "Name"
@@ -3351,12 +3348,11 @@ msgid "NetSonar"
 msgstr ""
 
 #: flow/stencils/Cisco/network_management.desktop:2
-#, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Project Management"
 msgctxt "Name"
 msgid "Network Management"
-msgstr "Proje Yönetimi"
+msgstr "Ağ Yönetimi"
 
 #: flow/stencils/Cisco/newton.desktop:2
 msgctxt "Name"
@@ -3371,12 +3367,12 @@ msgstr ""
 #: flow/stencils/Cisco/ons15104.desktop:2
 msgctxt "Name"
 msgid "ONS15104"
-msgstr ""
+msgstr "ONS15104"
 
 #: flow/stencils/Cisco/ons15540.desktop:2
 msgctxt "Name"
 msgid "ONS15500"
-msgstr ""
+msgstr "ONS15500"
 
 #: flow/stencils/Cisco/optical_amplifier.desktop:2
 msgctxt "Name"
@@ -3406,7 +3402,7 @@ msgstr ""
 #: flow/stencils/Cisco/pad.desktop:2
 msgctxt "Name"
 msgid "PAD X.28"
-msgstr ""
+msgstr "PAD X.28"
 
 #: flow/stencils/Cisco/pager.desktop:2
 msgctxt "Name"
@@ -3520,12 +3516,11 @@ msgid "PIX Firewall Left"
 msgstr ""
 
 #: flow/stencils/Cisco/printer.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "KPresenter"
 msgctxt "Name"
 msgid "Printer"
-msgstr "Kpresenter"
+msgstr "Yazıcı"
 
 #: flow/stencils/Cisco/programmable_switch.desktop:2
 msgctxt "Name"
@@ -3540,7 +3535,7 @@ msgstr ""
 #: flow/stencils/Cisco/pxf.desktop:2
 msgctxt "Name"
 msgid "PXF"
-msgstr ""
+msgstr "PXF"
 
 #: flow/stencils/Cisco/radio_tower.desktop:2
 msgctxt "Name"
@@ -3645,7 +3640,7 @@ msgstr ""
 #: flow/stencils/Lights/Scanner.desktop:2
 msgctxt "Name"
 msgid "Scanner"
-msgstr ""
+msgstr "Tarayıcı"
 
 #: flow/stencils/Cisco/security_appliance.desktop:2
 msgctxt "Name"
@@ -3746,7 +3741,7 @@ msgstr ""
 #: flow/stencils/Cisco/stp.desktop:2
 msgctxt "Name"
 msgid "STP"
-msgstr ""
+msgstr "STP"
 
 #: flow/stencils/Cisco/sun_workstation.desktop:2
 #, fuzzy
@@ -3853,12 +3848,12 @@ msgstr "Metin"
 #: flow/stencils/Cisco/tv.desktop:2
 msgctxt "Name"
 msgid "TV"
-msgstr ""
+msgstr "TV"
 
 #: flow/stencils/Cisco/ubr910_cable_dsu.desktop:2
 msgctxt "Name"
 msgid "uBR910"
-msgstr ""
+msgstr "uBR910"
 
 #: flow/stencils/Cisco/umg_series.desktop:2
 #, fuzzy
@@ -3897,12 +3892,11 @@ msgid "UPS"
 msgstr ""
 
 #: flow/stencils/Cisco/video_camera.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Picture Shape"
 msgctxt "Name"
 msgid "Video camera"
-msgstr "Resim Şekli"
+msgstr "Video kamera"
 
 #: flow/stencils/Cisco/video_camera_right.desktop:2
 #, fuzzy
@@ -3925,17 +3919,17 @@ msgstr ""
 #: flow/stencils/Cisco/vn2900.desktop:2
 msgctxt "Name"
 msgid "VN2900"
-msgstr ""
+msgstr "VN2900"
 
 #: flow/stencils/Cisco/vn5900.desktop:2
 msgctxt "Name"
 msgid "VN5900"
-msgstr ""
+msgstr "VN5900"
 
 #: flow/stencils/Cisco/vn5902.desktop:2
 msgctxt "Name"
 msgid "VN5902"
-msgstr ""
+msgstr "VN5902"
 
 #: flow/stencils/Cisco/voice-enabled_access_server.desktop:2
 msgctxt "Name"
@@ -3988,12 +3982,11 @@ msgid "WDM"
 msgstr ""
 
 #: flow/stencils/Cisco/web_browser.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Wave Filter"
 msgctxt "Name"
 msgid "Web browser"
-msgstr "Dalga Filtresi"
+msgstr "Web tarayıcı"
 
 #: flow/stencils/Cisco/web_cluster.desktop:2
 #, fuzzy
@@ -4685,12 +4678,11 @@ msgid "Edpc"
 msgstr ""
 
 #: flow/stencils/Edpc/function.desktop:2 flow/stencils/SDL/function.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Math Functions"
 msgctxt "Name"
 msgid "Function"
-msgstr "Matematiksel Fonksiyonlar"
+msgstr "Fonksiyon"
 
 #: flow/stencils/Edpc/or.desktop:2
 #, fuzzy
@@ -4760,7 +4752,7 @@ msgstr ""
 #: flow/stencils/Electric/command.desktop:2
 msgctxt "Name"
 msgid "command"
-msgstr ""
+msgstr "komut"
 
 #: flow/stencils/Electric/contact_f.desktop:2
 msgctxt "Name"
@@ -4853,12 +4845,12 @@ msgstr ""
 #: flow/stencils/Electronic/collection.desktop:2
 msgctxt "Name"
 msgid "Electronic"
-msgstr ""
+msgstr "Elektronik"
 
 #: flow/stencils/Electronic/contact.desktop:2
 msgctxt "Name"
 msgid "contact"
-msgstr ""
+msgstr "iletişim"
 
 #: flow/stencils/Electronic/contact_pair.desktop:2
 msgctxt "Name"
@@ -4944,7 +4936,7 @@ msgstr ""
 #: flow/stencils/Electronic/microphone.desktop:2
 msgctxt "Name"
 msgid "microphone"
-msgstr ""
+msgstr "mikrofon"
 
 #: flow/stencils/Electronic/photo_emiting_part.desktop:2
 msgctxt "Name"
@@ -4990,7 +4982,7 @@ msgstr ""
 #| msgid "Oracle"
 msgctxt "Name"
 msgid "source"
-msgstr "Oracle"
+msgstr "kaynak"
 
 #: flow/stencils/Electronic/source_substitution.desktop:2
 msgctxt "Name"
@@ -5147,7 +5139,7 @@ msgstr "Zarf"
 #: flow/stencils/Flags/afghanistan.desktop:2
 msgctxt "Name"
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afganistan"
 
 #: flow/stencils/Flags/albania.desktop:2
 msgctxt "Name"
@@ -5172,7 +5164,7 @@ msgstr ""
 #: flow/stencils/Flags/antarctica.desktop:2
 msgctxt "Name"
 msgid "Antarctica"
-msgstr ""
+msgstr "Antartika"
 
 #: flow/stencils/Flags/antigua_and_barbuda.desktop:2
 msgctxt "Name"
@@ -5182,7 +5174,7 @@ msgstr ""
 #: flow/stencils/Flags/argentina.desktop:2
 msgctxt "Name"
 msgid "Argentina"
-msgstr ""
+msgstr "Arjantin"
 
 #: flow/stencils/Flags/armenia.desktop:2
 msgctxt "Name"
@@ -5205,7 +5197,7 @@ msgstr "Krita"
 #: flow/stencils/Flags/azerbaijan.desktop:2
 msgctxt "Name"
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Azerbaycan"
 
 #: flow/stencils/Flags/bahamas.desktop:2
 msgctxt "Name"
@@ -5238,7 +5230,7 @@ msgstr ""
 #: flow/stencils/Flags/belgium.desktop:2
 msgctxt "Name"
 msgid "Belgium"
-msgstr ""
+msgstr "Belçika"
 
 #: flow/stencils/Flags/belize.desktop:2
 msgctxt "Name"
@@ -5276,7 +5268,7 @@ msgstr ""
 #: flow/stencils/Flags/brazil.desktop:2
 msgctxt "Name"
 msgid "Brazil"
-msgstr ""
+msgstr "Brezilya"
 
 #: flow/stencils/Flags/brunei_darussalam.desktop:2
 msgctxt "Name"
@@ -5286,7 +5278,7 @@ msgstr ""
 #: flow/stencils/Flags/bulgaria.desktop:2
 msgctxt "Name"
 msgid "Bulgaria"
-msgstr ""
+msgstr "Bulgaristan"
 
 #: flow/stencils/Flags/burkina_faso.desktop:2
 msgctxt "Name"
@@ -5317,7 +5309,7 @@ msgstr "Aşağıya Ok"
 #: flow/stencils/Flags/canada.desktop:2
 msgctxt "Name"
 msgid "Canada"
-msgstr ""
+msgstr "Kanada"
 
 #: flow/stencils/Flags/cape_verde.desktop:2
 msgctxt "Name"
@@ -5338,12 +5330,11 @@ msgid "Chad"
 msgstr "Chart"
 
 #: flow/stencils/Flags/chile.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Title"
 msgctxt "Name"
 msgid "Chile"
-msgstr "Başlık"
+msgstr "Şili"
 
 #: flow/stencils/Flags/china_hong_kong.desktop:2
 msgctxt "Name"
@@ -5373,7 +5364,7 @@ msgstr ""
 #: flow/stencils/Flags/colombia.desktop:2
 msgctxt "Name"
 msgid "Colombia"
-msgstr ""
+msgstr "Kolombiya"
 
 #: flow/stencils/Flags/comoros.desktop:2
 msgctxt "Name"
@@ -5403,7 +5394,7 @@ msgstr ""
 #: flow/stencils/Flags/croatia.desktop:2
 msgctxt "Name"
 msgid "Croatia"
-msgstr ""
+msgstr "Hırvatistan"
 
 #: flow/stencils/Flags/cuba.desktop:2
 msgctxt "Name"
@@ -5418,7 +5409,7 @@ msgstr ""
 #: flow/stencils/Flags/czech_republic.desktop:2
 msgctxt "Name"
 msgid "Czech Republic"
-msgstr ""
+msgstr "Çek Cumhuriyeti"
 
 #: flow/stencils/Flags/denmark.desktop:2
 #, fuzzy
@@ -5449,12 +5440,11 @@ msgid "Ecuador"
 msgstr ""
 
 #: flow/stencils/Flags/egypt.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Empty"
 msgctxt "Name"
 msgid "Egypt"
-msgstr "Boş"
+msgstr "Mısır"
 
 #: flow/stencils/Flags/el_salvador.desktop:2
 msgctxt "Name"
@@ -5477,7 +5467,7 @@ msgstr "Krita"
 #: flow/stencils/Flags/estonia.desktop:2
 msgctxt "Name"
 msgid "Estonia"
-msgstr ""
+msgstr "Estonya"
 
 #: flow/stencils/Flags/ethiopia.desktop:2
 msgctxt "Name"
@@ -5487,7 +5477,7 @@ msgstr ""
 #: flow/stencils/Flags/europeanunion.desktop:2
 msgctxt "Name"
 msgid "European Union"
-msgstr ""
+msgstr "Avrupa Birliği"
 
 #: flow/stencils/Flags/fiji.desktop:2
 msgctxt "Name"
@@ -5538,7 +5528,7 @@ msgstr ""
 #: flow/stencils/Flags/greece.desktop:2
 msgctxt "Name"
 msgid "Greece"
-msgstr ""
+msgstr "Yunanistan"
 
 #: flow/stencils/Flags/grenada.desktop:2
 #, fuzzy
@@ -5590,30 +5580,28 @@ msgid "Iceland"
 msgstr ""
 
 #: flow/stencils/Flags/india.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita"
 msgctxt "Name"
 msgid "India"
-msgstr "Krita"
+msgstr "Hindistan"
 
 #: flow/stencils/Flags/indonesia.desktop:2
 msgctxt "Name"
 msgid "Indonesia"
-msgstr ""
+msgstr "Endonezya"
 
 #: flow/stencils/Flags/iran.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plain"
 msgctxt "Name"
 msgid "Iran"
-msgstr "Düz"
+msgstr "İran"
 
 #: flow/stencils/Flags/iraq.desktop:2
 msgctxt "Name"
 msgid "Iraq"
-msgstr ""
+msgstr "Irak"
 
 #: flow/stencils/Flags/ireland.desktop:2
 #, fuzzy
@@ -5631,7 +5619,7 @@ msgstr ""
 #: flow/stencils/Flags/italy.desktop:2
 msgctxt "Name"
 msgid "Italy"
-msgstr ""
+msgstr "İtalya"
 
 #: flow/stencils/Flags/jamaica.desktop:2
 msgctxt "Name"
@@ -5641,7 +5629,7 @@ msgstr ""
 #: flow/stencils/Flags/japan.desktop:2
 msgctxt "Name"
 msgid "Japan"
-msgstr ""
+msgstr "Japonya"
 
 #: flow/stencils/Flags/jordan.desktop:2
 msgctxt "Name"
@@ -5689,7 +5677,7 @@ msgstr ""
 #: flow/stencils/Flags/lebanon.desktop:2
 msgctxt "Name"
 msgid "Lebanon"
-msgstr ""
+msgstr "Lübnan"
 
 #: flow/stencils/Flags/lesotho.desktop:2
 msgctxt "Name"
@@ -5742,7 +5730,7 @@ msgstr ""
 #: flow/stencils/Flags/malaysia.desktop:2
 msgctxt "Name"
 msgid "Malaysia"
-msgstr ""
+msgstr "Malezya"
 
 #: flow/stencils/Flags/maldives.desktop:2
 msgctxt "Name"
@@ -5757,7 +5745,7 @@ msgstr ""
 #: flow/stencils/Flags/malta.desktop:2
 msgctxt "Name"
 msgid "Malta"
-msgstr ""
+msgstr "Malta"
 
 #: flow/stencils/Flags/marshall_islands.desktop:2
 msgctxt "Name"
@@ -5790,7 +5778,7 @@ msgstr ""
 #: flow/stencils/Flags/moldova.desktop:2
 msgctxt "Name"
 msgid "Moldova"
-msgstr ""
+msgstr "Moldova"
 
 #: flow/stencils/Flags/monaco.desktop:2
 msgctxt "Name"
@@ -5876,7 +5864,7 @@ msgstr ""
 #: flow/stencils/Flags/north_korea.desktop:2
 msgctxt "Name"
 msgid "North Korea"
-msgstr ""
+msgstr "Kuzey Kore"
 
 #: flow/stencils/Flags/norway.desktop:2
 msgctxt "Name"
@@ -5894,12 +5882,11 @@ msgid "Oman"
 msgstr ""
 
 #: flow/stencils/Flags/pakistan.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plain"
 msgctxt "Name"
 msgid "Pakistan"
-msgstr "Düz"
+msgstr "Pakistan"
 
 #: flow/stencils/Flags/palau.desktop:2
 #, fuzzy
@@ -5946,12 +5933,11 @@ msgid "Philippines"
 msgstr ""
 
 #: flow/stencils/Flags/poland.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plain"
 msgctxt "Name"
 msgid "Poland"
-msgstr "Düz"
+msgstr "Polonya"
 
 #: flow/stencils/Flags/portugal.desktop:2
 msgctxt "Name"
@@ -5961,12 +5947,12 @@ msgstr ""
 #: flow/stencils/Flags/qatar.desktop:2
 msgctxt "Name"
 msgid "Qatar"
-msgstr ""
+msgstr "Katar"
 
 #: flow/stencils/Flags/romania.desktop:2
 msgctxt "Name"
 msgid "Romania"
-msgstr ""
+msgstr "Romanya"
 
 #: flow/stencils/Flags/russian_federation.desktop:2
 msgctxt "Name"
@@ -6014,12 +6000,11 @@ msgid "Saudi Arabia"
 msgstr ""
 
 #: flow/stencils/Flags/senegal.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "General"
 msgctxt "Name"
 msgid "Senegal"
-msgstr "Genel"
+msgstr "Senegal"
 
 #: flow/stencils/Flags/serbia.desktop:2
 msgctxt "Name"
@@ -6072,12 +6057,11 @@ msgid "South Korea"
 msgstr ""
 
 #: flow/stencils/Flags/spain.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Basic"
 msgctxt "Name"
 msgid "Spain"
-msgstr "Temel"
+msgstr "İspanya"
 
 #: flow/stencils/Flags/sri_lanka.desktop:2
 msgctxt "Name"
@@ -6164,17 +6148,16 @@ msgid "Tunisia"
 msgstr ""
 
 #: flow/stencils/Flags/turkey.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Text"
 msgctxt "Name"
 msgid "Turkey"
-msgstr "Metin"
+msgstr "Türkiye"
 
 #: flow/stencils/Flags/turkmenistan.desktop:2
 msgctxt "Name"
 msgid "Turkmenistan"
-msgstr ""
+msgstr "Türkmenistan"
 
 #: flow/stencils/Flags/tuvalu.desktop:2
 #, fuzzy
@@ -6190,12 +6173,11 @@ msgid "Uganda"
 msgstr ""
 
 #: flow/stencils/Flags/ukraine.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plain"
 msgctxt "Name"
 msgid "Ukraine"
-msgstr "Düz"
+msgstr "Ukrayna"
 
 #: flow/stencils/Flags/unesco.desktop:2
 msgctxt "Name"
@@ -6892,17 +6874,16 @@ msgid "expansible node"
 msgstr ""
 
 #: flow/stencils/Misc/file.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Title"
 msgctxt "Name"
 msgid "File"
-msgstr "Başlık"
+msgstr "Dosya"
 
 #: flow/stencils/Misc/folder.desktop:2
 msgctxt "Name"
 msgid "Folder"
-msgstr ""
+msgstr "Klasör"
 
 #: flow/stencils/MSE/collection.desktop:2
 msgctxt "Name"
@@ -6945,7 +6926,7 @@ msgstr ""
 #: flow/stencils/Network/collection.desktop:2
 msgctxt "Name"
 msgid "Network"
-msgstr ""
+msgstr "Ağ"
 
 #: flow/stencils/Network/computer.desktop:2
 msgctxt "Name"
@@ -7830,12 +7811,11 @@ msgid "Creates a document with no stencils loaded."
 msgstr "Şablon yüklenmemiş bir belge oluşturur."
 
 #: karbon/data/karbon.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Karbon14"
 msgctxt "Name"
 msgid "Karbon"
-msgstr "Karbon14"
+msgstr "Karbon"
 
 #: karbon/data/karbon.desktop:28 karbon/data/karbonpart.desktop:42
 msgctxt "GenericName"
@@ -8059,12 +8039,11 @@ msgid "Forms"
 msgstr "Formlar"
 
 #: kexi/plugins/forms/kexiformhandler.desktop:63
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Forms"
 msgctxt "Name"
 msgid "Form"
-msgstr "Formlar"
+msgstr "Form"
 
 #: kexi/plugins/forms/kformdesigner_kexidbfactory.desktop:5
 msgctxt "Name"
@@ -8138,12 +8117,11 @@ msgid "Scripts"
 msgstr "Betikler"
 
 #: kexi/plugins/scripting/kexiscripting/kexiscripthandler.desktop:63
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Scripts"
 msgctxt "Name"
 msgid "Script"
-msgstr "Betikler"
+msgstr "Betik"
 
 #: kexi/plugins/shapes/relationdesign/kexirelationdesignshape.desktop:2
 msgctxt "Name"
@@ -8156,12 +8134,11 @@ msgid "Tables"
 msgstr "Tablolar"
 
 #: kexi/plugins/tables/kexitablehandler.desktop:64
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Tables"
 msgctxt "Name"
 msgid "Table"
-msgstr "Tablolar"
+msgstr "Tablo"
 
 #: krita/data/krita_brush.desktop:4
 msgctxt "Comment"
@@ -8287,40 +8264,39 @@ msgstr ""
 #| msgid "Fax Template"
 msgctxt "Name"
 msgid "Design Templates"
-msgstr "Faks Şablonu"
+msgstr "Faks Şablonları"
 
 #: krita/data/templates/dslr/Canon_550D_5184x3456.desktop:3
 msgctxt "Name"
 msgid "Canon_550D_5184x3456"
-msgstr ""
+msgstr "Canon_550D_5184x3456"
 
 #: krita/data/templates/dslr/Canon_5Dmk3_5760x3840.desktop:3
 msgctxt "Name"
 msgid "Canon_5Dmk3_5760x3840"
-msgstr ""
+msgstr "Canon_5Dmk3_5760x3840"
 
 #: krita/data/templates/dslr/.directory:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Fax Template"
 msgctxt "Name"
 msgid "DSLR Templates"
-msgstr "Faks Şablonu"
+msgstr "DSLR Şablonları"
 
 #: krita/data/templates/dslr/Nikon_D3000_3872x2592.desktop:3
 msgctxt "Name"
 msgid "Nikon_D3000_3872x2592"
-msgstr ""
+msgstr "Nikon_D3000_3872x2592"
 
 #: krita/data/templates/dslr/Nikon_D5000_4288x2848.desktop:3
 msgctxt "Name"
 msgid "Nikon_D5000_4288x2848"
-msgstr ""
+msgstr "Nikon_D5000_4288x2848"
 
 #: krita/data/templates/dslr/Nikon_D7000_4928x3264.desktop:3
 msgctxt "Name"
 msgid "Nikon_D7000_4928x3264"
-msgstr ""
+msgstr "Nikon_D7000_4928x3264"
 
 #: krita/data/templates/film/1K_super35_fullAp_1024x778.desktop:3
 msgctxt "Name"
@@ -8348,12 +8324,12 @@ msgstr "Faks Şablonu"
 #: krita/data/templates/film/HD_720p_1280x720.desktop:3
 msgctxt "Name"
 msgid "HD_720p_1280x720"
-msgstr ""
+msgstr "HD_720p_1280x720"
 
 #: krita/data/templates/film/HD_full_1920x1080.desktop:3
 msgctxt "Name"
 msgid "HD_full_1920x1080"
-msgstr ""
+msgstr "HD_full_1920x1080"
 
 #: krita/data/templates/film/HD_half_960x540.desktop:3
 msgctxt "Name"
@@ -8955,12 +8931,11 @@ msgid "Krita BMP Export Filter"
 msgstr "Krita BMP Aktarma Filtresi"
 
 #: krita/plugins/formats/bmp/krita_bmp_import.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita BMP Export Filter"
 msgctxt "Name"
 msgid "Krita BMP Import Filter"
-msgstr "Krita BMP Aktarma Filtresi"
+msgstr "Krita BMP Alma Filtresi"
 
 #: krita/plugins/formats/eps/krita_eps_export.desktop:2
 #, fuzzy
@@ -8986,36 +8961,32 @@ msgid "Application for Drawing and Handling of Images"
 msgstr "Çizim ve Resim İşleme Uygulaması"
 
 #: krita/plugins/formats/exr/krita_exr_export.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita ora Export Filter"
 msgctxt "Name"
 msgid "Krita exr Export Filter"
-msgstr "Krita ora Aktarma Filtresi"
+msgstr "Krita exr Aktarma Filtresi"
 
 #: krita/plugins/formats/exr/krita_exr_import.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita ora Import Filter"
 msgctxt "Name"
 msgid "Krita exr Import Filter"
-msgstr "Krita ora Alma Filtresi"
+msgstr "Krita exr Alma Filtresi"
 
 #: krita/plugins/formats/jp2/krita_jp2_export.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita PNG Export Filter"
 msgctxt "Name"
 msgid "Krita jp2 Export Filter"
-msgstr "Krita PNG Aktarma Filtresi"
+msgstr "Krita jp2 Aktarma Filtresi"
 
 #: krita/plugins/formats/jp2/krita_jp2_import.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita PNG Import Filter"
 msgctxt "Name"
 msgid "Krita jp2 Import Filter"
-msgstr "Krita PNG Alma Filtresi"
+msgstr "Krita jp2 Alma Filtresi"
 
 #: krita/plugins/formats/jpeg/krita_jpeg_export.desktop:3
 msgctxt "Name"
@@ -9028,12 +8999,11 @@ msgid "Krita JPEG Import Filter"
 msgstr "Krita JPEG Alma Filtresi"
 
 #: krita/plugins/formats/odg/krita_odg_import.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita PNG Import Filter"
 msgctxt "Name"
 msgid "Krita ODG Import Filter"
-msgstr "Krita PNG Alma Filtresi"
+msgstr "Krita ODG Alma Filtresi"
 
 #: krita/plugins/formats/oiio/krita_oiio_export.desktop:2
 #, fuzzy
@@ -9082,20 +9052,18 @@ msgid "Krita PNG Import Filter"
 msgstr "Krita PNG Alma Filtresi"
 
 #: krita/plugins/formats/ppm/krita_ppm_export.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita BMP Export Filter"
 msgctxt "Name"
 msgid "Krita PPM Export Filter"
-msgstr "Krita BMP Aktarma Filtresi"
+msgstr "Krita PPM Aktarma Filtresi"
 
 #: krita/plugins/formats/ppm/krita_ppm_import.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita PDF Import Filter"
 msgctxt "Name"
 msgid "Krita PPM Import Filter"
-msgstr "Krita PDF Alma Filtresi"
+msgstr "Krita PPM Alma Filtresi"
 
 #: krita/plugins/formats/psd/krita_psd_export.desktop:3
 #, fuzzy
@@ -9129,12 +9097,11 @@ msgid "Krita TIFF Import Filter"
 msgstr "Krita TIFF Alma Filtresi"
 
 #: krita/plugins/formats/xcf/krita_xcf_import.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Krita PNG Import Filter"
 msgctxt "Name"
 msgid "Krita Gimp Import Filter"
-msgstr "Krita PNG Alma Filtresi"
+msgstr "Krita Gimp Alma Filtresi"
 
 #: krita/plugins/generators/solid/kritacolorgenerator.desktop:2
 msgctxt "Name"
@@ -9294,12 +9261,11 @@ msgid "Polyline Tool"
 msgstr "Çokluçizgi Aracı"
 
 #: krita/plugins/tools/tool_text/kritatooltext.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Star Tool"
 msgctxt "Name"
 msgid "Text Tool"
-msgstr "Yıldız Aracı"
+msgstr "Metin Aracı"
 
 #: krita/plugins/tools/tool_transform2/kritatooltransform.desktop:2
 msgctxt "Name"
@@ -9474,12 +9440,11 @@ msgid "A plugin that contains text variables"
 msgstr "Metin değişkenlerini içeren bir eklenti"
 
 #: libs/main/calligradocker.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Karbon Dockers plugin"
 msgctxt "Name"
 msgid "Calligra Docker Plugin"
-msgstr "Karbon Dockers eklentisi"
+msgstr "Calligra Docker Eklentisi"
 
 #: libs/main/calligradocker.desktop:33
 msgctxt "Comment"
@@ -9487,12 +9452,11 @@ msgid "A plugin that contains a so called 'dockwidget'"
 msgstr "Sözde dok parçacığı içeren bir eklenti"
 
 #: libs/main/kodocinfopropspage.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "KOffice Document Info Properties Page"
 msgctxt "Name"
 msgid "Calligra Document Info Properties Page"
-msgstr "KOffice Belge Özellikler Sayfası"
+msgstr "Calligra Belge Özellikler Sayfası"
 
 #: libs/pigment/pigment.desktop:4
 msgctxt "Comment"
@@ -9510,12 +9474,11 @@ msgid ""
 msgstr "Pigment Rengi ile kullanmak için renk boşluğunu oluşturan bir modül"
 
 #: plan/libs/kernel/plan_schedulerplugin.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "KPlato Scheduler Plugin"
 msgctxt "Name"
 msgid "Plan Scheduler Plugin"
-msgstr "KPlato Zamanlayıcı Eklentisi"
+msgstr "Plan Zamanlayıcı Eklentisi"
 
 #: plan/libs/kernel/plan_schedulerplugin.desktop:31
 msgctxt "Comment"
@@ -9538,20 +9501,18 @@ msgid "Project Management"
 msgstr "Proje Yönetimi"
 
 #: plan/planpart.desktop:2 plan/workpackage/planworkpart.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "KOffice Project Management Component"
 msgctxt "Name"
 msgid "Calligra Project Management Component"
-msgstr "KOffice Proje Yönetimi Bileşeni"
+msgstr "Calligra Proje Yönetimi Bileşeni"
 
 #: plan/plugins/filters/icalendar/export/plan_icalendar_export.desktop:8
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "KPlato iCalendar Export Filter"
 msgctxt "Name"
 msgid "Plan iCalendar Export Filter"
-msgstr "KPlato iCalendar Dışarıya Aktarma Filtresi"
+msgstr "Plan iCalendar Dışarıya Aktarma Filtresi"
 
 #: plan/plugins/filters/kplato/import/plan_kplato_import.desktop:3
 #, fuzzy
@@ -9623,12 +9584,11 @@ msgid "Plain"
 msgstr "Düz"
 
 #: plan/workpackage/planwork.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "KPlato WorkPackage Handler"
 msgctxt "Name"
 msgid "Plan WorkPackage Handler"
-msgstr "KPlate Çalışma Paketi  İşleyicisi"
+msgstr "Plan Çalışma Paketi  İşleyicisi"
 
 #: plugins/artistictextshape/artistictextshape.desktop:2
 msgctxt "Name"
@@ -9687,12 +9647,11 @@ msgid "Default Flake Tools"
 msgstr "Öntanımlı Flake Araçları"
 
 #: plugins/dockers/calligradockers.desktop:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Karbon Dockers plugin"
 msgctxt "Name"
 msgid "Calligra Dockers plugin"
-msgstr "Karbon Dockers eklentisi"
+msgstr "Calligra Docker eklentisi"
 
 #: plugins/formulashape/formulashape.desktop:2
 msgctxt "Name"
@@ -9906,12 +9865,11 @@ msgid "Calligra Component"
 msgstr "KOffice Proje Yönetimi Bileşeni"
 
 #: servicetypes/kofilter.desktop:4
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Color Filters"
 msgctxt "Comment"
 msgid "Calligra Filter"
-msgstr "Renk Filtreleri"
+msgstr "Calligra Filtre"
 
 #: servicetypes/kofilterwrapper.desktop:4
 #, fuzzy
@@ -9922,12 +9880,11 @@ msgid "Calligra Filter Wrapper"
 msgstr "KOffice Filtre Kaydırması"
 
 #: servicetypes/koplugin.desktop:4
-#, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Migration Plugin"
 msgctxt "Comment"
 msgid "Calligra Plugin"
-msgstr "Taşıma Eklentisi"
+msgstr "Calligra Eklentisi"
 
 #: sheets/data/templates/Business/BalanceSheet.desktop:4
 msgctxt "Name"
@@ -10167,7 +10124,6 @@ msgid "Reference Functions"
 msgstr "Referans Fonksiyonları"
 
 #: sheets/functions/kspreadreferencemodule.desktop:37
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid ""
 #| "ADDRESS, AREAS, CHOOSE, COLUMN, COLUMNS, HLOOKUP, INDEX, INDIRECT, "
@@ -10178,7 +10134,7 @@ msgid ""
 "MULTIPLE.OPERATIONS ROW, ROWS, VLOOKUP"
 msgstr ""
 "ADDRESS, AREAS, CHOOSE, COLUMN, COLUMNS, HLOOKUP, INDEX, INDIRECT, LOOKUP, "
-"ROW, ROWS, VLOOKUP"
+"MULTIPLE.OPERATIONS ROW, ROWS, VLOOKUP"
 
 #: sheets/functions/kspreadstatisticalmodule.desktop:2
 msgctxt "Name"
@@ -10553,12 +10509,11 @@ msgid "Curious Penguin"
 msgstr ""
 
 #: stage/templates/odf/.directory:2
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Fax Template"
 msgctxt "Name"
 msgid "Templates"
-msgstr "Faks Şablonu"
+msgstr "Şablonlar"
 
 #: stage/templates/odf/flood_light.desktop:3
 msgctxt "Name"
@@ -10687,12 +10642,11 @@ msgid "Illustration Document..."
 msgstr "Resim Belgesi..."
 
 #: templates/Illustration.desktop:52
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid "New Karbon14 document:"
 msgctxt "Comment"
 msgid "New Karbon document:"
-msgstr "Yeni Karbon14 Belgesi"
+msgstr "Yeni Karbon belgesi:"
 
 #: templates/Presentation.desktop:2
 msgctxt "Name"
@@ -10883,12 +10837,11 @@ msgid "Calligra Word Processing Component"
 msgstr "KOffice Kelime İşleme Bileşeni"
 
 #: words/part/wordspart.desktop:41
-#, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Word Processor"
 msgctxt "GenericName"
 msgid "Word processor"
-msgstr "Kelime İşlemci"
+msgstr "Kelime işlemci"
 
 #: words/templates/Wordprocessing/A4.desktop:4
 msgctxt "Name"

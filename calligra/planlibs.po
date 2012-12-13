@@ -42,7 +42,6 @@ msgid "Working"
 msgstr "Çalışıyor"
 
 #: kernel/kptdocuments.cpp:76 kernel/kptdocuments.cpp:89
-#, fuzzy
 #| msgid "Unknown"
 msgctxt "@item"
 msgid "Unknown"
@@ -56,21 +55,18 @@ msgid "Product"
 msgstr "Ürün"
 
 #: kernel/kptdocuments.cpp:78
-#, fuzzy
 #| msgid "Reference"
 msgctxt "@item Document is used for refrence"
 msgid "Reference"
 msgstr "Referans"
 
 #: kernel/kptdocuments.cpp:90
-#, fuzzy
 #| msgid "Copy"
 msgctxt "@item Send a copy of the document"
 msgid "Copy"
 msgstr "Kopyala"
 
 #: kernel/kptdocuments.cpp:91
-#, fuzzy
 #| msgid "Reference"
 msgctxt "@item Send the reference (url) of the document"
 msgid "Reference"
@@ -165,10 +161,9 @@ msgid "Effort not met"
 msgstr "Başarım"
 
 #: kernel/kptglobal.cpp:46
-#, fuzzy
 #| msgid "The scheduling direction"
 msgid "Scheduling error"
-msgstr "Zamanlama yönü"
+msgstr "Zamanlama hatası"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, risk)
 #: kernel/kptnode.cpp:139 kernel/kptnode.cpp:1631 kernel/kpttask.cpp:3712
@@ -433,14 +428,12 @@ msgid "Material"
 msgstr "Malzeme"
 
 #: kernel/kptresource.cpp:445
-#, fuzzy
 #| msgid "Work"
 msgctxt "@item:inlistbox resource type"
 msgid "Work"
 msgstr "İş"
 
 #: kernel/kptresource.cpp:446
-#, fuzzy
 #| msgid "Material"
 msgctxt "@item:inlistbox resource type"
 msgid "Material"
@@ -825,7 +818,6 @@ msgid "Name"
 msgstr "İsim"
 
 #: models/kptcalendarmodel.cpp:421
-#, fuzzy
 #| msgid "Timezone"
 msgctxt "@title:column"
 msgid "Timezone"
@@ -846,18 +838,16 @@ msgid "Move calendar"
 msgstr "Takvim Ekle"
 
 #: models/kptcalendarmodel.cpp:568
-#, fuzzy
 #| msgid "Add Calendar"
 msgctxt "(qtundo-format)"
 msgid "Add calendar"
-msgstr "Takvim Ekle"
+msgstr "Takvim ekle"
 
 #: models/kptcalendarmodel.cpp:591
-#, fuzzy
 #| msgid "Delete Calendar"
 msgctxt "(qtundo-format)"
 msgid "Delete calendar"
-msgstr "Takvim Sil"
+msgstr "Takvim sil"
 
 #: models/kptcalendarmodel.cpp:759
 msgctxt "Undefined"
@@ -938,7 +928,6 @@ msgid "Weekday"
 msgstr "Hafta"
 
 #: models/kptcalendarmodel.cpp:1316
-#, fuzzy
 #| msgid "Date"
 msgctxt "@title:column"
 msgid "Date"
@@ -952,11 +941,10 @@ msgid "The name of the task"
 msgstr "Görevin adı"
 
 #: models/kptcommonstrings.cpp:28
-#, fuzzy
 #| msgid "Task type"
 msgctxt "@info:tooltip"
 msgid "Task type"
-msgstr "Görev tipi"
+msgstr "Görev türü"
 
 #: models/kptcommonstrings.cpp:29
 #, fuzzy
@@ -994,7 +982,6 @@ msgid "Constraint end time"
 msgstr "Kısıtlanmış bitiş zamanı"
 
 #: models/kptcommonstrings.cpp:34
-#, fuzzy
 #| msgid "Task notes"
 msgctxt "@info:tooltip"
 msgid "Task notes"
@@ -1258,7 +1245,6 @@ msgid "Shows if the task is finished"
 msgstr "Görev bittiyse göster"
 
 #: models/kptcommonstrings.cpp:83
-#, fuzzy
 #| msgid "Status Note"
 msgctxt "@info:tooltip"
 msgid "Status Note"
@@ -2481,7 +2467,6 @@ msgid "Pessimistic"
 msgstr "Kötümser"
 
 #: models/kptnodeitemmodel.cpp:2286
-#, fuzzy
 #| msgid "Risk"
 msgctxt "@title:column"
 msgid "Risk"
@@ -2647,7 +2632,6 @@ msgid "Assignments"
 msgstr "Atamalar"
 
 #: models/kptnodeitemmodel.cpp:2318
-#, fuzzy
 #| msgid "Duration"
 msgctxt "@title:column"
 msgid "Duration"
@@ -2822,15 +2806,13 @@ msgid "WBS Code"
 msgstr "Kod"
 
 #: models/kptnodeitemmodel.cpp:2349
-#, fuzzy
 #| msgctxt "Node level"
 #| msgid "Level"
 msgctxt "@title:column Node level"
 msgid "Level"
-msgstr "Düzey"
+msgstr "Seviye"
 
 #: models/kptnodeitemmodel.cpp:2356
-#, fuzzy
 #| msgid "Critical"
 msgctxt "@title:column"
 msgid "Critical"
@@ -2851,7 +2833,6 @@ msgid "Owner"
 msgstr "Sahip"
 
 #: models/kptnodeitemmodel.cpp:2362
-#, fuzzy
 #| msgid "Time"
 msgctxt "@title:column"
 msgid "Time"
@@ -5966,7 +5947,7 @@ msgstr ""
 
 #: ui/reports/reportdesignview.cpp:44
 msgid "Cut"
-msgstr ""
+msgstr "Kes"
 
 #: ui/reports/reportdesignview.cpp:46
 msgid "Copy"
@@ -6016,18 +5997,17 @@ msgstr ""
 
 #: ui/reports/reportexportpanel.cpp:37
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: ui/reports/reportexportpanel.cpp:38
 msgid "XHTML"
-msgstr ""
+msgstr "XHTML"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/reports/reportexportpanel.ui:17
-#, fuzzy
 #| msgid "Select a month"
 msgid "Select format:"
-msgstr "Bir ay seçin"
+msgstr "Biçim seçin"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: ui/reports/reportnavigator.ui:20
@@ -6250,10 +6230,9 @@ msgid "Export to XHTML failed"
 msgstr ""
 
 #: ui/reports/reportview.cpp:488
-#, fuzzy
 #| msgid "Generate Report"
 msgid "Edit Report"
-msgstr "Rapor Oluştur"
+msgstr "Rapor Düzenle"
 
 #: ui/reports/reportview.cpp:489
 msgctxt "@info:tooltip"
@@ -6331,7 +6310,7 @@ msgstr ""
 #: ui/reports/reportview.cpp:1174
 msgctxt "@title:window report group edit tools"
 msgid "Tools"
-msgstr ""
+msgstr "Araçlar"
 
 #: ui/reports/reportview.cpp:1198
 msgctxt "@into:tooltip"
@@ -6346,11 +6325,10 @@ msgid "Headers && Footers"
 msgstr "Başlık ve Dipnot"
 
 #: ui/reports/reportview.cpp:1239
-#, fuzzy
 #| msgid "Group"
 msgctxt "@title:window report group section docker"
 msgid "Groups"
-msgstr "Grup"
+msgstr "Gruplar"
 
 #: ui/reports/reportview.cpp:1405
 msgctxt "@title:column"
@@ -6421,14 +6399,13 @@ msgid "Descending"
 msgstr ""
 
 #: ui/reports/reportview.cpp:1611 ui/reports/reportview.cpp:1644
-#, fuzzy
 #| msgid "None"
 msgid "No"
-msgstr "Hiçbiri"
+msgstr "Hayır"
 
 #: ui/reports/reportview.cpp:1611 ui/reports/reportview.cpp:1644
 msgid "Yes"
-msgstr ""
+msgstr "Evet"
 
 #: ui/reports/reportview.cpp:1676
 #, fuzzy
