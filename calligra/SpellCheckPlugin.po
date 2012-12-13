@@ -1,0 +1,73 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Serdar Soytetir <tulliana@gmail.com>, 2008.
+# Anıl Özbek <ozbekanil@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: SpellCheckPlugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-05-01 03:27+0200\n"
+"PO-Revision-Date: 2012-06-14 18:02+0300\n"
+"Last-Translator: Anıl Özbek <ozbekanil@gmail.com>\n"
+"Language-Team: Turkish <yerellestirme@kde.org.tr>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: SpellCheck.cpp:51
+msgid "Configure &Spell Checking..."
+msgstr "&Yazım Denetimini Yapılandır..."
+
+#: SpellCheck.cpp:55
+msgid "Auto Spell Check"
+msgstr "Otomatik Yazım Denetimi"
+
+#: SpellCheckFactory.cpp:29
+msgid "Check Spelling"
+msgstr "Yazım Denetimi Yap"
+
+#: SpellCheckMenu.cpp:42
+msgid "Spelling"
+msgstr "Yazım Denetimi"
+
+#: SpellCheckMenu.cpp:46
+msgid "Add to Dictionary"
+msgstr "Sözlüğe Ekle"
+
+#, fuzzy
+#~| msgid "Ignore these words"
+#~ msgid "Ignore Word"
+#~ msgstr "Bu sözcükleri yoksay"
+
+#, fuzzy
+#~| msgid "Configure Spell Check"
+#~ msgid "Spell Check"
+#~ msgstr "Yazım Denetimini Yapılandır"
+
+#~ msgid "Spell Check Configuration"
+#~ msgstr "Yazım Denetimi Yapılandırması"
+
+#~ msgid "Default Language:"
+#~ msgstr "Öntanımlı Dil:"
+
+#~ msgid "Options"
+#~ msgstr "Seçenekler"
+
+#~ msgid "Enable &background spellchecking"
+#~ msgstr "&Arkaplanda yazım denetimini etkinleştir"
+
+#~ msgid "Skip all &uppercase words"
+#~ msgstr "Tümü &büyük harf sözcükleri atla"
+
+#~ msgid "S&kip run-together words"
+#~ msgstr "&Bitişik sözcükleri atla"
+
+#~ msgid "&Add"
+#~ msgstr "&Ekle"
+
+#~ msgid "&Remove"
+#~ msgstr "&Kaldır"

@@ -1,0 +1,55 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ongun Kanat <ongun.kanat@gmail.com>, 2012.
+# Serdar Soytetir <tulliana@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-19 02:38+0200\n"
+"PO-Revision-Date: 2012-06-17 20:05+0300\n"
+"Last-Translator: Serdar Soytetir <tulliana@gmail.com>\n"
+"Language-Team: Turkish <yerellestirme@kde.org.tr>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: KoReportBarcodePlugin.cpp:36
+msgid "Barcode"
+msgstr "Barkod"
+
+#: KoReportItemBarcode.cpp:108
+msgid "Data Source"
+msgstr "Veri Kaynağı"
+
+#: KoReportItemBarcode.cpp:111
+msgid "Left"
+msgstr "Sol"
+
+#: KoReportItemBarcode.cpp:111
+msgid "Center"
+msgstr "Orta"
+
+#: KoReportItemBarcode.cpp:111
+msgid "Right"
+msgstr "Sağ"
+
+#: KoReportItemBarcode.cpp:112
+msgid "Horizontal Alignment"
+msgstr "Yatay Hizalama"
+
+#: KoReportItemBarcode.cpp:118
+msgid "Barcode Format"
+msgstr "Barkod Biçimi"
+
+#: KoReportItemBarcode.cpp:120
+msgid "Max Length"
+msgstr "Azami Uzunluk"
+
+#: KoReportItemBarcode.cpp:120
+msgid "Maximum Barcode Length"
+msgstr "Azami Barkod Uzunluğu"

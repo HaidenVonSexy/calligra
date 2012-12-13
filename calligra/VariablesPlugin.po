@@ -1,0 +1,296 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009.
+# Anıl Özbek <ozbekanil@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: VariablesPlugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-26 03:16+0200\n"
+"PO-Revision-Date: 2012-06-14 17:57+0300\n"
+"Last-Translator: Anıl Özbek <ozbekanil@gmail.com>\n"
+"Language-Team: Turkish <yerellestirme@kde.org.tr>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ChapterVariable.cpp:214 UserVariableOptionsWidget.cpp:66
+msgid "Format:"
+msgstr "Biçim:"
+
+#: ChapterVariable.cpp:219
+msgid "Number"
+msgstr "Numara"
+
+#: ChapterVariable.cpp:219
+msgid "Name"
+msgstr "İsim"
+
+#: ChapterVariable.cpp:219
+msgid "Number and name"
+msgstr "Numara ve isim"
+
+#: ChapterVariable.cpp:219
+msgid "Number without separator"
+msgstr "Ayraç olmadan numara"
+
+#: ChapterVariable.cpp:219
+msgid "Number and name without separator"
+msgstr "Ayraç olmadan numara ve isim"
+
+#: ChapterVariable.cpp:223
+msgid "Level:"
+msgstr "Seviye:"
+
+#: ChapterVariableFactory.cpp:34
+msgid "Chapter"
+msgstr "Bölüm"
+
+#: DateVariableFactory.cpp:35
+msgctxt "date that can not be changed later"
+msgid "Date (Fixed)"
+msgstr "Tarih (Sabit)"
+
+#: FixedDateFormat.cpp:46
+msgid "Locale date format"
+msgstr "Yerel tarih biçimi"
+
+#: FixedDateFormat.cpp:47
+msgid "Short locale date format"
+msgstr "Yerel kısa tarih biçimi"
+
+#: FixedDateFormat.cpp:48
+msgid "Locale date & time format"
+msgstr "Yerel tarih ve saat biçimi"
+
+#: FixedDateFormat.cpp:49
+msgid "Short locale date & time format"
+msgstr "Yerel kısa tarih ve saat biçimi"
+
+#: FixedDateFormat.cpp:124
+msgid "Day"
+msgstr "Gün"
+
+#: FixedDateFormat.cpp:125
+msgid "Month"
+msgstr "Ay"
+
+#: FixedDateFormat.cpp:126
+msgid "Year"
+msgstr "Yıl"
+
+#: FixedDateFormat.cpp:127
+msgid "Hour"
+msgstr "Saat"
+
+#: FixedDateFormat.cpp:128
+msgid "Minute"
+msgstr "Dakika"
+
+#: FixedDateFormat.cpp:129
+msgid "Second"
+msgstr "Saniye"
+
+#: FixedDateFormat.cpp:137
+msgid "Flexible Digits (1-31)"
+msgstr "Esnek Sayılar (1-31)"
+
+#: FixedDateFormat.cpp:138
+msgid "2 Digits (01-31)"
+msgstr "2 Basamak (01-31)"
+
+#: FixedDateFormat.cpp:139 FixedDateFormat.cpp:143
+msgid "Abbreviated Name"
+msgstr "Kısaltılmış İsim"
+
+#: FixedDateFormat.cpp:140 FixedDateFormat.cpp:144
+msgid "Long Name"
+msgstr "Uzun İsim"
+
+#: FixedDateFormat.cpp:141
+msgid "Flexible Digits (1-12)"
+msgstr "Esnek Sayılar (1-12)"
+
+#: FixedDateFormat.cpp:142
+msgid "2 Digits (01-12)"
+msgstr "2 Basamak (01-12)"
+
+#: FixedDateFormat.cpp:145
+msgid "Possessive Abbreviated Name"
+msgstr "İyelik Belirten Kısaltılmış İsim"
+
+#: FixedDateFormat.cpp:146
+msgid "Possessive Long Name"
+msgstr "İyelik Belirten Uzun İsim"
+
+#: FixedDateFormat.cpp:147
+msgid "2 Digits (01-99)"
+msgstr "2 Basamak (01-99)"
+
+#: FixedDateFormat.cpp:148
+msgid "4 Digits"
+msgstr "4 Basamak"
+
+#: FixedDateFormat.cpp:149
+msgid "Flexible Digits (1-23)"
+msgstr "Esnek Sayılar (1-23)"
+
+#: FixedDateFormat.cpp:150
+msgid "2 Digits (01-23)"
+msgstr "2 Basamak (01-23)"
+
+#: FixedDateFormat.cpp:151 FixedDateFormat.cpp:153
+msgid "Flexible Digits (1-59)"
+msgstr "Esnek Sayılar (1-59)"
+
+#: FixedDateFormat.cpp:152 FixedDateFormat.cpp:154
+msgid "2 Digits (01-59)"
+msgstr "2 Basamak (01-59)"
+
+#: FixedDateFormat.cpp:155
+msgid "am/pm"
+msgstr "öö/ös"
+
+#: FixedDateFormat.cpp:156
+msgid "AM/PM"
+msgstr "ÖÖ/ÖS"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: FixedDateFormat.ui:30
+msgid "Date Correction:"
+msgstr "Tarih Düzeltmesi:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, correction)
+#: FixedDateFormat.ui:37
+msgid " days"
+msgstr "gün"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: FixedDateFormat.ui:62
+msgid "Select the way the date should be displayed:"
+msgstr "Tarihin görüntülenme şeklini seçin:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, custom)
+#: FixedDateFormat.ui:69
+msgid "Custom format"
+msgstr "Özel biçim"
+
+#. i18n: ectx: property (text), widget (QToolButton, formatButton)
+#: FixedDateFormat.ui:125
+msgid "..."
+msgstr "..."
+
+#: InfoVariableFactory.cpp:37
+msgid "Author Name"
+msgstr "Yazar İsmi"
+
+#: InfoVariableFactory.cpp:45
+msgid "Title"
+msgstr "Başlık"
+
+#: InfoVariableFactory.cpp:53
+msgid "Subject"
+msgstr "Konu"
+
+#: InfoVariableFactory.cpp:61
+msgid "File Name"
+msgstr "Dosya Adı"
+
+#: InfoVariableFactory.cpp:69
+msgid "Keywords"
+msgstr "Anahtar Sözcükler"
+
+#: InfoVariableFactory.cpp:77
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: PageVariableFactory.cpp:35
+msgid "Page Count"
+msgstr "Sayfa Sayısı"
+
+#: PageVariableFactory.cpp:43
+msgid "Page Number"
+msgstr "Sayfa Numarası"
+
+#: UserVariableFactory.cpp:34
+msgid "Custom"
+msgstr "Özel"
+
+#: UserVariableOptionsWidget.cpp:44
+msgid "Name:"
+msgstr "İsim:"
+
+#: UserVariableOptionsWidget.cpp:55
+msgid "New"
+msgstr "Yeni"
+
+#: UserVariableOptionsWidget.cpp:59
+msgid "Delete"
+msgstr "Sil"
+
+#: UserVariableOptionsWidget.cpp:72
+msgid "String"
+msgstr "Dizgi"
+
+#: UserVariableOptionsWidget.cpp:73
+msgid "Boolean"
+msgstr "Boolean"
+
+#: UserVariableOptionsWidget.cpp:74
+msgid "Float"
+msgstr "Kayan nokta"
+
+#: UserVariableOptionsWidget.cpp:75
+msgid "Percentage"
+msgstr "Yüzde"
+
+#: UserVariableOptionsWidget.cpp:76
+msgid "Currency"
+msgstr "Para birimi"
+
+#: UserVariableOptionsWidget.cpp:77
+msgid "Date"
+msgstr "Tarih"
+
+#: UserVariableOptionsWidget.cpp:78
+msgid "Time"
+msgstr "Zaman"
+
+#: UserVariableOptionsWidget.cpp:79
+msgid "Formula"
+msgstr "Formül"
+
+#: UserVariableOptionsWidget.cpp:80
+msgid "Void"
+msgstr "Void"
+
+#: UserVariableOptionsWidget.cpp:85
+msgid "Value:"
+msgstr "Değer:"
+
+#: UserVariableOptionsWidget.cpp:158
+msgid "New Variable"
+msgstr "Yeni Değişken"
+
+#: UserVariableOptionsWidget.cpp:158
+msgid "Name for new variable:"
+msgstr "Yeni değişken için ad:"
+
+#: UserVariableOptionsWidget.cpp:174
+#, kde-format
+msgid "Delete variable <b>%1</b>?"
+msgstr "Değişken <b>%1</b> silinsin mi?"
+
+#: UserVariableOptionsWidget.cpp:175
+msgid "Delete Variable"
+msgstr "Değişkeni Sil"
+
+#~ msgid "Fixed"
+#~ msgstr "Sabit"
+
+#~ msgid "TextLabel"
+#~ msgstr "MetinEtiketi"

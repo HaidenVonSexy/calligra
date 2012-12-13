@@ -1,0 +1,324 @@
+# translation of AutocorrectPlugin.po to Turkish
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Serdar Soytetir <tulliana@gmail.com>, 2008.
+# Server Acim <sacim@kde.org.tr>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: AutocorrectPlugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-09-29 02:53+0200\n"
+"PO-Revision-Date: 2008-12-21 13:09+0200\n"
+"Last-Translator: Server Acim <sacim@kde.org.tr>\n"
+"Language-Team: Turkish <yerellestirme@kde.org.tr>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Autocorrect.cpp:39
+msgid "Configure &Autocorrection..."
+msgstr "Otomatik Düzeltmeyi &Yapılandır..."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, AutocorrectConfig)
+#: Autocorrect.cpp:43 Autocorrect.cpp:92 AutocorrectConfig.ui:14
+#: AutocorrectConfigDialog.cpp:377
+msgid "Autocorrection"
+msgstr "Otomatik Düzeltme"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_1)
+#: AutocorrectConfig.ui:24
+msgid "Si&mple Autocorrection"
+msgstr "&Basit Otomatik Düzeltme"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, upperCase)
+#: AutocorrectConfig.ui:30
+msgid ""
+"Detect when a new sentence is started and always ensure that the first "
+"character is an uppercase character"
+msgstr ""
+"Yeni bir cümleye başlandığında bunu algıla ve ilk karakterin büyük harf "
+"olmasını sağla"
+
+#. i18n: ectx: property (text), widget (QCheckBox, upperCase)
+#: AutocorrectConfig.ui:34
+msgid ""
+"Convert &first letter of a sentence automatically to uppercase\n"
+"(e.g. \"my house. in this town\" to \"my house. In this town\")"
+msgstr ""
+"Cümlenin ilk har&fini otomatik olarak büyült. \n"
+"(örneğin. \"bilgisayarım. bu odada\" biçiminden \"bilgisayarım. Bu odada\" "
+"biçimine döner)"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, upperUpper)
+#: AutocorrectConfig.ui:44
+msgid ""
+"All words are checked for the common mistake of holding the shift key down a "
+"bit too long. If some words must have two uppercase characters, then those "
+"exceptions should be added in the 'Exceptions' tab."
+msgstr ""
+"Tüm kelimeler shift tuşunu biraz uzun tutmaktan kaynaklanan hataları bulmak "
+"için denetlenmiştir. Eğer bazı kelimeler iki büyük harf taşıyorlarsa, bu "
+"özel durumlar 'İstisnalar' sekmesine eklenmelidir."
+
+#. i18n: ectx: property (text), widget (QCheckBox, upperUpper)
+#: AutocorrectConfig.ui:48
+msgid ""
+"Convert &two uppercase characters to one uppercase and one lowercase "
+"character\n"
+" (e.g. PErfect to Perfect)"
+msgstr ""
+"İki büyük harfi bir büyük bir de küçük harfe dönüş&tür\n"
+" (örneğin HArika, Harika olacaktır)"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, autoFormatUrl)
+#: AutocorrectConfig.ui:55
+msgid ""
+"Detect when a URL (Uniform Resource Locator) is typed and provide formatting "
+"that matches the way an Internet browser would show a URL."
+msgstr ""
+"Bir URL yazılıp bir ağ tarayıcının bu URL'yi gösterme yolu açılmış ise bunu "
+"algıla."
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoFormatUrl)
+#: AutocorrectConfig.ui:58
+msgid "Autoformat &URLs"
+msgstr "&Adresleri Otomatik Biçimlendir"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, ignoreDoubleSpace)
+#: AutocorrectConfig.ui:65
+msgid ""
+"Make sure that more than one space cannot be typed, as this is a common "
+"mistake which is quite hard to find in formatted text."
+msgstr ""
+"Biçimlendirilmiş bir metinde fark edilmesi oldukça zor olan ve çok yapılan "
+"bir hatayı, birden fazla boşluk yazımının olmadığından emin olun."
+
+#. i18n: ectx: property (text), widget (QCheckBox, ignoreDoubleSpace)
+#: AutocorrectConfig.ui:68
+msgid "&Suppress double spaces"
+msgstr "Çift boşluk için ba&skıla"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, trimParagraphs)
+#: AutocorrectConfig.ui:75
+msgid ""
+"Keep correct formatting and indenting of sentences by automatically removing "
+"spaces typed at the beginning and end of a paragraph."
+msgstr ""
+"Her paragrafın başında ve sonundaki boşlukları kaldırarak, doğru biçim ve "
+"girintileri oluştur."
+
+#. i18n: ectx: property (text), widget (QCheckBox, trimParagraphs)
+#: AutocorrectConfig.ui:78
+msgid "R&emove spaces at the beginning and end of paragraphs"
+msgstr "Paragrafların başındaki v&e sonundaki boşlukları kaldır."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, autoChangeFormat)
+#: AutocorrectConfig.ui:85
+msgid ""
+"When you use _underline_ or *bold*, the text between the underscores or "
+"asterisks will be converted to underlined or bold text."
+msgstr ""
+"_Altı çizili_ veya *kalın* biçiminde bir yazı yazıldığında altçizgiler "
+"arasındaki yazı altıçizili, yıldızlar arasındaki yazı ise kalın olacaktır."
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoChangeFormat)
+#: AutocorrectConfig.ui:88
+msgid "Automatically do &bold and underline formatting"
+msgstr "Kalın ve altı çizili &biçimleri otomatik olark oluştur"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, autoReplaceNumber)
+#: AutocorrectConfig.ui:95
+msgid "Most standard fraction notations will be converted when available"
+msgstr "Birçok standart kesir ifadeleri, mümkün oldukça dönüştürülecektir"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoReplaceNumber)
+#: AutocorrectConfig.ui:98
+msgid "Re&place 1/2... with ½..."
+msgstr "Bu&nunla 1/2... bunu ½... yer değiştir."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, useNumberStyle)
+#: AutocorrectConfig.ui:108
+msgid ""
+"When typing '1)' or similar in front of a paragraph, automatically convert "
+"the paragraph to use that numbering style. This has the advantage that "
+"further paragraphs will also be numbered and the spacing is done correctly."
+msgstr ""
+"Bir paragrafın önüne '1)' veya benzerini yazarken, paragrafı bu sayılama "
+"tarzını kullanması için değiştir. Bundan sonraki paragraflar bu şekilde "
+"sayılandırılıp, boşluklar doğru olarak ayarlanacaktır."
+
+#. i18n: ectx: property (text), widget (QCheckBox, useNumberStyle)
+#: AutocorrectConfig.ui:111
+msgid "Use &autonumbering for numbered paragraphs"
+msgstr "S&ayılandırılmış paragraflarda otomatik sayılamayı kullan."
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoSuperScript)
+#: AutocorrectConfig.ui:121
+msgid "Rep&lace 1st... with 1^st..."
+msgstr "1nci... &yazısını 1^ nci... ile değiştir"
+
+#. i18n: ectx: property (text), widget (QCheckBox, capitalizeDaysName)
+#: AutocorrectConfig.ui:128
+msgid "Capitalize name of days"
+msgstr "Gün isimlerini büyük yaz"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, useBulletStyle)
+#: AutocorrectConfig.ui:138
+msgid ""
+"When typing '*' or '-' in front of a paragraph, automatically convert the "
+"paragraph to use that list-style. Using a list-style formatting means that a "
+"correct bullet is used to draw the list."
+msgstr ""
+"Bir paragrafın önünde '*' veya '-' yazılırken, paragrafı bu liste-tarzını "
+"kullanması için düzenle. Liste-tarzı biçimleme, listeyi oluştururken doğru "
+"madde iminin kullanılmasını sağlar."
+
+#. i18n: ectx: property (text), widget (QCheckBox, useBulletStyle)
+#: AutocorrectConfig.ui:141
+msgid "Use l&ist-formatting for bulleted paragraphs"
+msgstr "Madde işaretli paragraflar için l&iste biçimlemesi yap"
+
+#. i18n: ectx: property (text), widget (QPushButton, defaultBulletStyle)
+#. i18n: ectx: property (text), widget (QPushButton, doubleDefault)
+#. i18n: ectx: property (text), widget (QPushButton, singleDefault)
+#. i18n: ectx: property (text), item, widget (QComboBox, autoFormatLanguage)
+#: AutocorrectConfig.ui:178 AutocorrectConfig.ui:253 AutocorrectConfig.ui:308
+#: AutocorrectConfig.ui:360
+msgid "Default"
+msgstr "Öntanımlı"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: AutocorrectConfig.ui:214
+msgid "Custom &Quotes"
+msgstr "Tırnak &Ayarları"
+
+#. i18n: ectx: property (text), widget (QCheckBox, typographicDoubleQuotes)
+#: AutocorrectConfig.ui:220
+msgid "Replace &double quotes with typographical quotes"
+msgstr "Çift tırnakları, basımevi tırnakları ile &değiştir"
+
+#. i18n: ectx: property (text), widget (QCheckBox, typographicSingleQuotes)
+#: AutocorrectConfig.ui:275
+msgid "Replace &single quotes with typographical quotes"
+msgstr "Tek tırnakları, basımevi tırnakları ile &değiştir"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: AutocorrectConfig.ui:344
+msgid "Ad&vanced Autocorrection"
+msgstr "&Gelişmiş Otomatik Düzeltme"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: AutocorrectConfig.ui:352
+msgid "Replacements and exceptions for language:"
+msgstr "Dil için değiştirme ve istisnalar:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, autoFormatLanguage)
+#: AutocorrectConfig.ui:365
+msgid "All Languages"
+msgstr "Tüm Diller"
+
+#. i18n: ectx: property (text), widget (QCheckBox, advancedAutocorrection)
+#: AutocorrectConfig.ui:375
+msgid "&Enable word replacement"
+msgstr "&Sözcük değiştirmeyi ektinleştir"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoCorrectionWithFormat)
+#: AutocorrectConfig.ui:385
+msgid "Replace &text with format"
+msgstr "&Biçimli metin değiştirme"
+
+#. i18n: ectx: property (text), widget (QLabel, findLabel)
+#: AutocorrectConfig.ui:394
+msgid "&Find"
+msgstr "&Bul"
+
+#. i18n: ectx: property (text), widget (QToolButton, specialChar1)
+#. i18n: ectx: property (text), widget (QToolButton, specialChar2)
+#: AutocorrectConfig.ui:407 AutocorrectConfig.ui:427
+msgid "..."
+msgstr "..."
+
+#. i18n: ectx: property (text), widget (QLabel, replaceLabel)
+#: AutocorrectConfig.ui:414
+msgid "Re&place"
+msgstr "&Değiştir"
+
+#. i18n: ectx: property (text), widget (QPushButton, addButton)
+#. i18n: ectx: property (text), widget (QPushButton, add1)
+#: AutocorrectConfig.ui:438 AutocorrectConfig.ui:562
+#: AutocorrectConfigDialog.cpp:294
+msgid "&Add"
+msgstr "&Ekle"
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#. i18n: ectx: property (text), widget (QPushButton, remove2)
+#: AutocorrectConfig.ui:445 AutocorrectConfig.ui:637
+msgid "Remove"
+msgstr "Kaldır"
+
+#. i18n: ectx: property (text), widget (QPushButton, changeFormat)
+#: AutocorrectConfig.ui:455
+msgid "C&hange Format..."
+msgstr "&Biçimi Değiştir..."
+
+#. i18n: ectx: property (text), widget (QPushButton, clearFormat)
+#: AutocorrectConfig.ui:465
+msgid "C&lear Format"
+msgstr "Biçimi &Temizle"
+
+#. i18n: ectx: property (text), widget (QTableWidget, tableWidget)
+#: AutocorrectConfig.ui:503
+msgid "Find"
+msgstr "Bul"
+
+#. i18n: ectx: property (text), widget (QTableWidget, tableWidget)
+#: AutocorrectConfig.ui:508
+msgid "Replace"
+msgstr "Değiştir"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#: AutocorrectConfig.ui:517
+msgid "E&xceptions"
+msgstr "İ&stisnalar"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: AutocorrectConfig.ui:525
+msgid "Do not treat as the end of a sentence:"
+msgstr "Cümlenin sonu olarak algılama:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoinclude1)
+#. i18n: ectx: property (text), widget (QCheckBox, autoinclude2)
+#: AutocorrectConfig.ui:551 AutocorrectConfig.ui:619
+msgid "Autoinclude"
+msgstr "Otomatik Olarak İçer"
+
+#. i18n: ectx: property (text), widget (QPushButton, remove1)
+#: AutocorrectConfig.ui:569
+msgid "R&emove"
+msgstr "&Kaldır"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: AutocorrectConfig.ui:593
+msgid "Accept two uppercase letters in:"
+msgstr "İki büyük harfin kabul edileceği yer(ler):"
+
+#. i18n: ectx: property (text), widget (QPushButton, add2)
+#: AutocorrectConfig.ui:630
+msgid "A&dd"
+msgstr "&Ekle"
+
+#: AutocorrectConfigDialog.cpp:290
+msgid "&Modify"
+msgstr "&Düzenle"
+
+#: AutocorrectConfigDialog.cpp:391
+msgid "Select Character"
+msgstr "Karakter Seç"
+
+#: AutocorrectFactory.cpp:29
+msgid "Autocorrect"
+msgstr "Otomatik düzelt"

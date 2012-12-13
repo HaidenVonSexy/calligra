@@ -1,0 +1,164 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009.
+# Anıl Özbek <ozbekanil@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: ArtisticTextShape\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-26 03:12+0200\n"
+"PO-Revision-Date: 2012-06-14 15:22+0300\n"
+"Last-Translator: Anıl Özbek <ozbekanil@gmail.com>\n"
+"Language-Team: Turkish <yerellestirme@kde.org.tr>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: AddTextRangeCommand.cpp:28 AddTextRangeCommand.cpp:35
+msgctxt "(qtundo-format)"
+msgid "Add text range"
+msgstr "Metin aralığı ekle"
+
+#: ArtisticTextShapeFactory.cpp:30
+msgid "ArtisticTextShape"
+msgstr "SanatsalMetinSekli"
+
+#: ArtisticTextShapeFactory.cpp:32
+msgid "A shape which shows a single text line"
+msgstr "Tek bir metin satırı gösteren şekil"
+
+#: ArtisticTextShapeFactory.cpp:42
+msgid "Artistic Text"
+msgstr "Sanatsal Metin"
+
+#: ArtisticTextTool.cpp:66
+msgid "Detach Path"
+msgstr "Yolu Ayır"
+
+#: ArtisticTextTool.cpp:71
+msgid "Convert to Path"
+msgstr "Yola Dönüştür"
+
+#: ArtisticTextTool.cpp:76
+msgid "Bold text"
+msgstr "Koyu metin"
+
+#: ArtisticTextTool.cpp:81
+msgid "Italic text"
+msgstr "Yatık metin"
+
+#: ArtisticTextTool.cpp:86
+msgid "Superscript"
+msgstr "Üstsimge"
+
+#: ArtisticTextTool.cpp:91
+msgid "Subscript"
+msgstr "Altsimge"
+
+#: ArtisticTextTool.cpp:96
+msgid "Anchor at Start"
+msgstr "Başlangıca Çapala"
+
+#: ArtisticTextTool.cpp:101
+msgid "Anchor at Middle"
+msgstr "Ortaya Çapala"
+
+#: ArtisticTextTool.cpp:106
+msgid "Anchor at End"
+msgstr "Sona Çapala"
+
+#: ArtisticTextTool.cpp:298
+msgid "Click to change cursor position."
+msgstr "İmleç yerini değiştirmek için tıklayın."
+
+#: ArtisticTextTool.cpp:300
+msgid "Click to select text shape."
+msgstr "Metin şeklini seçmek için tıklayın."
+
+#: ArtisticTextTool.cpp:303
+msgid "Double click to put text on path."
+msgstr "Metni yol üzerine koymak için çift tıklayın."
+
+#: ArtisticTextTool.cpp:306
+msgid "Drag handle to change start offset."
+msgstr "Başlama konumunu değiştirmek için tutacağı sürükleyin."
+
+#: ArtisticTextTool.cpp:310
+msgid "Press escape to finish editing."
+msgstr "Düzenlemeyi bitirmek için escape tuşuna basın."
+
+#: ArtisticTextTool.cpp:479
+msgid "Press return to finish editing."
+msgstr "Düzenlemeyi bitirmek için enter tuşuna basın."
+
+#: ArtisticTextTool.cpp:573
+msgctxt "(qtundo-format)"
+msgid "Convert to Path"
+msgstr "Yola Dönüştür"
+
+#: ArtisticTextTool.cpp:586
+msgid "Text Properties"
+msgstr "Metin Özellikleri"
+
+#: ArtisticTextTool.cpp:596
+msgid "Text On Path"
+msgstr "Yol Üzerinde Metin"
+
+#: ArtisticTextToolFactory.cpp:30
+msgid "Artistic Text Editing Tool"
+msgstr "Sanatsal Metin Düzenleme Aracı"
+
+#: AttachTextToPathCommand.cpp:28
+msgctxt "(qtundo-format)"
+msgid "Attach Path"
+msgstr "Yol İliştir"
+
+#: ChangeTextAnchorCommand.cpp:27
+msgctxt "(qtundo-format)"
+msgid "Change text anchor"
+msgstr "Metin çapasını değiştir"
+
+#: ChangeTextFontCommand.cpp:29
+msgctxt "(qtundo-format)"
+msgid "Change font"
+msgstr "Yazı tipini değiştir"
+
+#: ChangeTextOffsetCommand.cpp:28
+msgctxt "(qtundo-format)"
+msgid "Change Text Offset"
+msgstr "Metin Konumunu Değiştir"
+
+#: DetachTextFromPathCommand.cpp:27
+msgctxt "(qtundo-format)"
+msgid "Detach Path"
+msgstr "Yolu Ayır"
+
+#: RemoveTextRangeCommand.cpp:29
+msgctxt "(qtundo-format)"
+msgid "Remove text range"
+msgstr "Metin aralığı sil"
+
+#: ReplaceTextRangeCommand.cpp:27 ReplaceTextRangeCommand.cpp:35
+#: ReplaceTextRangeCommand.cpp:43
+msgctxt "(qtundo-format)"
+msgid "Replace text range"
+msgstr "Metin aralığı değiştir"
+
+#~ msgid "Family:"
+#~ msgstr "Aile:"
+
+#~ msgid "Size:"
+#~ msgstr "Boyut:"
+
+#~ msgid "Offset:"
+#~ msgstr "Yerleşim:"
+
+#~ msgid "Artistic Text Tool"
+#~ msgstr "Sanatsal Metin Aracı"
+
+#~ msgid "Change text"
+#~ msgstr "Metni değiştir"
